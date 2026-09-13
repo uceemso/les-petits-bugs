@@ -22,13 +22,13 @@ Pourtant, dans ces moments-là, les enfants n’ont pas toujours besoin d’une 
 
 **Ils ont d’abord besoin que leur émotion soit reconnue.**
 
-## « Tu es vraiment déçu, hein ? »
+## « Tu es vraiment déçu, hein ? »
 
 Imaginez votre enfant qui attendait quelque chose avec impatience et qui apprend que cela n’aura finalement pas lieu.
 
 Notre premier réflexe pourrait être :
 
-<div class="quote-pair"><div class="quote bad"><span>On répond souvent</span>« Mais ce n’est pas grave, on fera autre chose ! »</div><div class="quote good"><span>On peut essayer</span>« Tu avais vraiment hâte de faire ça. C’est décevant que ce ne soit pas possible. »</div></div>
+<div class="quote-pair"><div class="quote bad"><span>On répond souvent</span>« Mais ce n’est pas grave, on fera autre chose ! »</div><div class="quote good"><span>On peut essayer</span>« Tu avais vraiment hâte de faire ça. C’est décevant que ce ne soit pas possible. »</div></div>
 
 On ne règle rien. On ne cherche même pas encore de solution.
 
@@ -44,7 +44,7 @@ On peut comprendre la frustration sans le laisser jeter son jouet.
 
 On peut entendre sa déception sans changer une règle que l’on vient de poser.
 
-<div class="callout"><strong>Par exemple :</strong><br>« Je vois que tu es très en colère. Tu voulais vraiment continuer à jouer. Je ne vais pas te laisser me taper. »</div>
+<div class="callout"><strong>Par exemple :</strong><br>« Je vois que tu es très en colère. Tu voulais vraiment continuer à jouer. Je ne vais pas te laisser me taper. »</div>
 
 L’émotion est accueillie. La limite reste là.
 
@@ -60,9 +60,9 @@ Si nous commençons immédiatement par corriger, expliquer ou raisonner, l’enf
 
 Quelques mots simples peuvent suffire :
 
-- « Tu es frustré. »
-- « Tu voulais vraiment ça. »
-- « C’est difficile quand les choses ne se passent pas comme prévu. »
+- « Tu es frustré. »
+- « Tu voulais vraiment ça. »
+- « C’est difficile quand les choses ne se passent pas comme prévu. »
 
 Une fois que l’enfant se sent compris, il devient souvent plus disponible pour entendre la suite.
 
@@ -82,7 +82,7 @@ Un enfant peut être triste sans que nous ayons besoin de le rendre heureux. Il 
 
 La prochaine fois que votre enfant explose parce que son dessin s’est déchiré, que la sortie est annulée ou qu’il doit arrêter de jouer, essayez peut-être de commencer par une seule chose : mettez des mots sur ce que vous voyez.
 
-<div class="example-list"><p>« Tu es vraiment déçu. »</p><p>« C’est frustrant quand ce qu’on avait construit tombe par terre. »</p><p>« Tu aurais vraiment aimé que ça se passe autrement. »</p></div>
+<div class="example-list"><p>« Tu es vraiment déçu. »</p><p>« C’est frustrant quand ce qu’on avait construit tombe par terre. »</p><p>« Tu aurais vraiment aimé que ça se passe autrement. »</p></div>
 
 Pas besoin de discours. Pas besoin de convaincre.
 
@@ -90,6 +90,6 @@ Et si les mots ne viennent pas, on peut aussi [passer par l’écriture, le dess
 
 Juste une petite pause pour lui dire :
 
-<p class="closing-line">« Je vois ce que tu ressens. »</p>
+<p class="closing-line">« Je vois ce que tu ressens. »</p>
 
 Et parfois, c’est précisément ce dont il avait besoin pour pouvoir avancer.
