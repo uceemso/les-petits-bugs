@@ -1,2 +1,75 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×4N‹Z–‹­¦ëeŠw¬Ô´´´)Ñ¥Ñ±”è€‰EÕ…¹ƒ¥É¥É”…¥‘”ƒ€…Á…¥Í•ÈÕ¹”É½ÍÍ”ƒ¥µ½Ñ¥½¸ˆ)Í•½Q¥Ñ±”è€‰EÕ…¹ƒ¥É¥É”…¥‘”ƒ€…Á…¥Í•ÈÕ¹”É½ÍÍ”ƒ¥µ½Ñ¥½¸ˆ)‘•ÍÉ¥ÁÑ¥½¸è€‰A…É™½¥Ì°ƒ¥É¥É”³Še•áÃ¥É¥•¹”“ŠeÕ¸•¹™…¹ĞÁ•ÕĞ³Še…¥‘•Èƒ€“¥Á½Í•ÈÕ¹”ƒ¥µ½Ñ¥½¸ÑÉ½ÀÉ…¹‘”•Ğƒ€Í”Í•¹Ñ¥ÈÁ±•¥¹•µ•¹Ğ•¹Ñ•¹‘Ô¸ˆ)Í•½•ÍÉ¥ÁÑ¥½¸è€‰¥½ÕÙÉ•è½µµ•¹Ğƒ¥É¥É”…Ù•ŒÕ¸•¹™…¹ĞÁ•ÕĞ…¥‘•Èƒ€…Á…¥Í•ÈÕ¹”É½ÍÍ”ƒ¥µ½Ñ¥½¸°ƒ€É•½¹¹‡¹ÑÉ”Í½¸Û¥Ô•Ğƒ€É•ÑÉ½ÕÙ•ÈÍ½¸…±µ”¸ˆ)‘…Ñ”è€ÈÀÈØ´Àä´ÄÌ)ÕÁ‘…Ñ•è€ÈÀÈØ´Àä´ÄÌ)…Ñ•½Éäè€‰A…É•¹Ñ…±¥Ó¤ˆ)¥µ…”è€ˆ½¥µ…•Ì½…ÉÑ¥±•Ì½…ÉÑ¥±”´ÀÜµ•É¥É”µ…¥ÍÍ”¹İ•‰Àˆ)¥µ…•±Ğè€‰U¹”¥±±ÕÍÑÉ…Ñ¥½¸…ÅÕ…É•±±”…‰ÍÑÉ…¥Ñ”É•ÁË¥Í•¹Ñ…¹ĞÕ¹”…¥ÍÍ”™•É·¥”°‘•ÌÁ½µµ•Ì•ĞÕ¹”ƒ¥µ½Ñ¥½¸ÅÕ¤ÏŠe…Á…¥Í”…ÕÑ½ÕÈ“ŠeÕ¹”¹½Ñ”ƒ¥É¥Ñ”¸ˆ)¥µ…•]¥‘Ñ è€ÄØÀÀ)¥µ…•!•¥¡Ğè€äÀÀ)Í±Õœè…ÉÑ¥±”µ•É¥É”µ…¥ÍÍ”)É•…‘¥¹Q¥µ”è€ˆĞµ¥¸‘”±•ÑÕÉ”ˆ(´´µq¹A…É™½¥Ì°Õ¹”ƒ¥µ½Ñ¥½¸¹”ÏŠe…Á…¥Í”Á…ÌÁ…É”Å×Še½¸ÑÉ½ÕÙ”±„‰½¹¹”•áÁ±¥…Ñ¥½¸¸±±”ÏŠe…Á…¥Í”ÅÕ…¹³Še•¹™…¹ĞÍ•¹ĞÅÕ”Í½¸¡¥ÍÑ½¥É”„ƒ¥Ó¤•¹Ñ§¡É•µ•¹Ğ•¹Ñ•¹‘Õ”¸((ŒŒU¹”É¥Í”ƒ€±„…¥ÍÍ”()9½ÕÌƒ¥Ñ¥½¹Ì…ÔÍÕÁ•Éµ…É£¤Á½ÕÈ…¡•Ñ•È‘•ÌÁ½µµ•Ì¸Ôµ½µ•¹Ğ‘”Á…å•È°Í•Õ±”±„‘•Õá§¡µ”…¥ÍÍ”ƒ¥Ñ…¥Ğ½ÕÙ•ÉÑ”¸()…‰É¥•°„µ½¹ÑË¤±„ÁÉ•µ§¡É”…¥ÍÍ”¸%°Ù½Õ±…¥ĞÁ…ÍÍ•ÈÁ…È•±±”µ³€°µ…¥Ì•±±”ƒ¥Ñ…¥Ğ™•É·¥”¸()1„É¥Í”„½µµ•¹¤Á•¹‘…¹ĞÅÕ”¹½ÕÌÁ…å¥½¹Ì¸±±”„½¹Ñ¥¹×¤©ÕÍÅÕ”‘…¹Ì±„ÉÕ”¸()+Še…¤½µµ•¹¤Á…Èµ•Ì½ÕÑ¥±Ì¡…‰¥ÑÕ•±Ì¸+Še…¤É•½¹¹Ô”Å×Še¥°É•ÍÍ•¹Ñ…¥Ğ€è((ñ‘¥Ø±…ÍÌô‰…±±½ÕĞˆû
-¬QÔ•Ì™ÉÕÍÑË¤•ĞÑË¡Ì½¹ÑÉ…É§¤¸)”½µÁÉ•¹‘Ì¸QÔÙ½Õ±…¥ÌÙÉ…¥µ•¹ĞÁ…ÍÍ•ÈÁ…È±„ÁÉ•µ§¡É—4¶‰ËkºwµçX\È\ÜØ^pêHHHÛÛ˜Z[˜Ü™H]YHØHÛÛ0ê™H¸ &X]˜Z]\ÈHÙ[œË‚‚“XZ\È8 &pêXÜš]\™HHÛ›°êH[™H›Ü›YH0èÙH]x &Z[š]˜Z]‚‚”ØHœ\İ˜][Û‹]ZHÙ[X›Z][[Y[œÙH][\ÜÜÚX›H0èÛÛ[š\‹\İ]™[YH[™H\İÚ\™Kˆ[™H\İÚ\™H]™XÈ[ˆ0êX][ˆ›Ø›0êYK[™H[šYHİ\ˆH›ØÚZ[™H›Ú\È]pê›YH[™H]]HİXÚH8 &Z[[İ\‹‚‚”İ\İ]ØXœšY[HÙ[H]YHÙH[ÛY[ÛÛ\Z]ˆÛÛˆ^0ê\šY[˜ÙH]˜Z]0ê]0êHYK[[™YH]ÛÛœÙ\°êYH]Y[]YH\ˆ[™H›Ú\ÈÛÛˆ\İÚ\™H0ªÈ˜[™ğêYp¨0®È[œÈH›İK[HH\ÜÙ\ˆ0è]]™HÚÜÙK‚‚ˆÈÈÛÛ[Y[\ÜØ^Y\ˆ0è›İ™Hİ\‚‚Ù]HY0êYH™H›Û˜İ[Û›™\˜H\È›Ü˜ğê[Y[0èÚ\]YH›Ú\ËˆXZ\ÈÜœÜ]YH\È[İÈÛÛY™šXÚ[\È0è›İ]™\‹Ûˆ]]›ÜÜÙ\ˆ8 &pêXÜš\™HØ[œÈ[\ÜÙ\ˆ‚‚]ˆÛ\ÜÏH˜Ø[İ]°ªÈH™]^]YH™H›İHÙH]ZHø &Y\İ\ÜğêHğ¨0®ÏÙ]‚‚’[¸ &Y\İ\È°êXÙ\ÜØZ\™H8 &pêXÜš\™H™X]XÛİ\ˆ]Y[]Y\È˜\Ù\ÈÚ[\\ÈİY™š\Ù[ˆÙH]ZHø &Y\İ\ÜğêKÙH]YH8 &Y[™˜[›İ[Z]ÙH]x &Z[H™\ÜÙ[H]ÙH]x &Z[Z[Y\˜Z]İ\ˆH›ØÚZ[™H›Ú\Ë‚‚“Ûˆ]]]\ÜÚHZ›İ]\ˆÙ\È›Ü™\È[İËÙ\ÈY0êY\È\È\È°í\ÈİH\È\È^Yğê\°êY\Ëˆ8 &[Øš™XİYˆ¸ &Y\İ\ÈH›ÙZ\™H[ˆÛÛ\H™[™H\™˜Z]ˆø &Y\İH[Û™\ˆ]YHÛÛˆ°êXİHpê\š]H[™HXÙK‚‚”\™›Ú\Ë\È[™˜[È¸ &[Û\È™\ÛÚ[ˆ]YH›İ\È°ê\\š[ÛœÈH›Ø›0êYKˆ[ÈÛ™\ÛÚ[ˆ8 &pê™H˜\Üİ\°ê\Èˆ›İ\È]›ÛœÈšY[ˆÛÛ\š\ÈÙH]ZH]\ˆ\İ\œš]°êK‚‚”]X[™\È0ê[[İ[ÛœÈÛÛÜ˜[™\ËHÜ°êX]]š]0êH]]\™›Ú\Èİ]œš\ˆ[™HÜH]YHHÙÚ\]YH¸ &X\œš]™H\È0è›İ]™\‹‚
+---
+title: "Quand Ã©crire aide Ã  apaiser une grosse Ã©motion"
+seoTitle: "Quand Ã©crire aide Ã  apaiser une grosse Ã©motion"
+description: "Parfois, Ã©crire lâ€™expÃ©rience dâ€™un enfant peut lâ€™aider Ã  dÃ©poser une Ã©motion trop grande et Ã  se sentir pleinement entendu."
+seoDescription: "DÃ©couvrez comment Ã©crire avec un enfant peut aider Ã  apaiser une grosse Ã©motion, Ã  reconnaÃ®tre son vÃ©cu et Ã  retrouver son calme."
+date: 2026-09-13
+updated: 2026-09-13
+category: "ParentalitÃ©"
+image: "/images/illustration-ecrire-caisse.webp"
+imageAlt: "Une illustration aquarelle abstraite reprÃ©sentant une caisse fermÃ©e, des pommes et une Ã©motion qui sâ€™apaise autour dâ€™une note Ã©crite."
+imageWidth: 1600
+imageHeight: 900
+slug: article-ecrire-caisse
+readingTime: "4 min de lecture"
+---\nParfois, une Ã©motion ne sâ€™apaise pas parce quâ€™on trouve la bonne explication. Elle sâ€™apaise quand lâ€™enfant sent que son histoire a Ã©tÃ© entiÃ¨rement entendue.
+
+## Une crise Ã  la caisse
+
+Nous Ã©tions au supermarchÃ© pour acheter des pommes. Au moment de payer, seule la deuxiÃ¨me caisse Ã©tait ouverte.
+
+Gabriel a montrÃ© la premiÃ¨re caisse. Il voulait passer par celle-lÃ , mais elle Ã©tait fermÃ©e.
+
+La crise a commencÃ© pendant que nous payions. Elle a continuÃ© jusque dans la rue.
+
+Jâ€™ai commencÃ© par mes outils habituels. Jâ€™ai reconnu ce quâ€™il ressentait :
+
+<div class="callout">Â« Tu es frustrÃ© et trÃ¨s contrariÃ©. Je comprends. Tu voulais vraiment passer par la premiÃ¨re caisse.Â Â»</div>
+
+Jâ€™ai essayÃ© quelques autres choses qui fonctionnent parfois. Mais rien ne semblait lâ€™aider Ã  redescendre.
+
+Puis jâ€™ai eu une idÃ©e.
+
+Jâ€™ai sorti mon tÃ©lÃ©phone, ouvert une note vierge et demandÃ© :
+
+<div class="callout">Â« Tu veux que jâ€™Ã©crive tout ?Â Â»</div>
+
+Il a rÃ©pondu par un petit Â« ouiÂ Â» timide.
+
+Jâ€™ai alors commencÃ© Ã  Ã©crire, tout en lisant les phrases Ã  voix haute :
+
+<div class="callout">Â« Aujourdâ€™hui, nous sommes passÃ©s par la deuxiÃ¨me caisse. Gabriel voulait aller Ã  la premiÃ¨re caisse, mais elle Ã©tait fermÃ©e. Gabriel nâ€™a pas aimÃ© Ã§a. La prochaine fois, il aimerait passer par la premiÃ¨re caisse.Â Â»</div>
+
+Nous avons mÃªme ajoutÃ© une phrase un peu moins raisonnable :
+
+<div class="callout">Â« Gabriel veut casser la deuxiÃ¨me caisse.Â Â»</div>
+
+Ã€ ce moment-lÃ , il avait complÃ¨tement arrÃªtÃ© de pleurer. Il Ã©coutait attentivement.
+
+Quand nous avons terminÃ©, nous avons relu la note ensemble. Je lui ai demandÃ© si jâ€™avais bien tout Ã©crit. Il a rÃ©pondu oui.
+
+Et, tout simplement, nous avons pu reprendre notre chemin, tranquillement.
+
+## Quand lâ€™Ã©motion a besoin dâ€™Ãªtre dÃ©posÃ©e
+
+Ã‰crire nâ€™a pas changÃ© la situation. La premiÃ¨re caisse Ã©tait toujours fermÃ©e. Nous nâ€™avons pas trouvÃ© de solution magique et nous nâ€™avons pas essayÃ© de le convaincre que sa colÃ¨re nâ€™avait pas de sens.
+
+Mais lâ€™Ã©criture a donnÃ© une forme Ã  ce quâ€™il vivait.
+
+Sa frustration, qui semblait immense et impossible Ã  contenir, est devenue une histoire. Une histoire avec un dÃ©but, un problÃ¨me, une envie pour la prochaine fois et mÃªme une petite touche dâ€™humour.
+
+Surtout, Gabriel a senti que ce moment comptait. Son expÃ©rience avait Ã©tÃ© vue, entendue et conservÃ©e quelque part. Une fois son histoire Â« rangÃ©eÂ Â» dans la note, il a pu passer Ã  autre chose.
+
+## Comment essayer Ã  votre tour
+
+Cette idÃ©e ne fonctionnera pas forcÃ©ment Ã  chaque fois. Mais lorsque les mots sont difficiles Ã  trouver, on peut proposer dâ€™Ã©crire sans imposer :
+
+<div class="callout">Â« Tu veux que je note ce qui sâ€™est passÃ© ?Â Â»</div>
+
+Il nâ€™est pas nÃ©cessaire dâ€™Ã©crire beaucoup. Quelques phrases simples suffisent : ce qui sâ€™est passÃ©, ce que lâ€™enfant voulait, ce quâ€™il a ressenti et ce quâ€™il aimerait pour la prochaine fois.
+
+On peut aussi ajouter ses propres mots, ses idÃ©es les plus drÃ´les ou les plus exagÃ©rÃ©es. Lâ€™objectif nâ€™est pas de produire un compte rendu parfait. Câ€™est de montrer que son vÃ©cu mÃ©rite une place.
+
+Parfois, les enfants nâ€™ont pas besoin que nous rÃ©parions le problÃ¨me. Ils ont besoin dâ€™Ãªtre rassurÃ©s : nous avons bien compris ce qui leur est arrivÃ©.
+
+Quand les Ã©motions sont grandes, la crÃ©ativitÃ© peut parfois ouvrir une porte que la logique nâ€™arrive pas Ã  trouver.
