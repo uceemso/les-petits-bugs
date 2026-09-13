@@ -179,3 +179,9 @@ Quand les grosses colères de trois ans ont commencé, j’avais surtout l’imp
 Ce livre ne m’a pas donné toutes les réponses.
 
 Mais il m’a donné quelque chose de beaucoup plus utile : des idées à essayer quand je ne sais plus quoi faire.
+
+## Retrouver le livre
+
+Vous pouvez retrouver le livre en [version française](https://link.amazon/B0fyWwGXw) ou en [version anglaise](https://link.amazon/B06zMary2).
+
+*Ces liens sont affiliés : si vous passez par eux, je peux recevoir une petite commission, sans coût supplémentaire pour vous.*
