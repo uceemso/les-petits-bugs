@@ -6,7 +6,7 @@ seoDescription: "Découvrez une idée simple pour aider un enfant à exprimer un
 date: 2026-09-13
 updated: 2026-09-13
 category: "Émotions"
-image: "/images/illustration-colere-taille.webp"
+image: "/images/articles/article-08-taille-colere.webp"
 imageAlt: "Gabriel lance un bâton pour exprimer l’ampleur de sa colère pendant une promenade avec sa mère et leur husky Shadow."
 imageWidth: 1600
 imageHeight: 900
