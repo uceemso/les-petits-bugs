@@ -20,9 +20,7 @@ for (const file of files) {
   // Remove legacy category and duplicate H1 lines from article bodies.
   body = body.replace(/^\s*PARENTALITÉ\s*\n+/, '');
   if (title) {
-    const escapedTitle = title.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\  const head = frontmatterMatch[0];
-  let body = original.slice(head.length);
-');
+    const escapedTitle = title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     body = body.replace(new RegExp(`^\\s*#\\s+${escapedTitle}\\s*\\n+`), '\\n');
   }
 
