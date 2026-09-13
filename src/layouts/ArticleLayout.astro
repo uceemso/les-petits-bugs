@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import { render } from 'astro:content';
 import ArticleCard from '../components/ArticleCard.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
 
 interface Props { article: CollectionEntry<'articles'>; related: CollectionEntry<'articles'>[]; }
 const { article, related } = Astro.props;
@@ -22,6 +23,7 @@ const { Content } = await render(article);
     <p class="meta-line">Par <a href={`${base}a-propos.html`} class="author-link">Marie</a> · <time datetime={data.date.toISOString().slice(0, 10)}>{data.date.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' })}</time> · {data.readingTime}</p>
   </div>
   <div class="article-body"><Content /></div>
+  <NewsletterSignup />
   {related.length > 0 && <section class="related">
     <div class="wrap"><h2>À lire aussi</h2><div class="mag-grid">
       {related.map((item) => <ArticleCard article={item} />)}
