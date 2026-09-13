@@ -22,11 +22,11 @@ Je n’avais pas vraiment envie de faire le trajet ce jour-là. Et, soyons honn�
 
 J’aurais pu répondre simplement :
 
-« Non, pas aujourd’hui. »
+« Non, pas aujourd’hui. »
 
 Mais au lieu de fermer complètement la porte, je lui ai proposé une autre idée :
 
-« Et si on fabriquait notre propre glace bleue à la maison ? »
+« Et si on fabriquait notre propre glace bleue à la maison ? »
 
 ## Une glace inventée en quelques minutes
 
@@ -64,15 +64,15 @@ La demande visible était une glace avec des bonbons. Le besoin, lui, était peu
 
 ## Une limite peut aussi devenir une invitation
 
-Cela ne signifie pas qu’il faut transformer chaque « non » en activité créative. Les parents ont aussi le droit de ne pas avoir envie de sortir, de poser une limite ou de dire simplement que ce n’est pas possible.
+Cela ne signifie pas qu’il faut transformer chaque « non » en activité créative. Les parents ont aussi le droit de ne pas avoir envie de sortir, de poser une limite ou de dire simplement que ce n’est pas possible.
 
 Mais lorsque nous avons un peu d’énergie, nous pouvons parfois chercher une autre porte d’entrée.
 
-« On ne va pas acheter cette glace aujourd’hui, mais on peut en inventer une à la maison. »
+« On ne va pas acheter cette glace aujourd’hui, mais on peut en inventer une à la maison. »
 
 La limite reste là. Nous n’allons pas au magasin. Nous ne choisissons pas exactement le goûter demandé.
 
-Mais au lieu de laisser le « non » devenir une déception, nous pouvons l’utiliser comme le début d’une nouvelle idée.
+Mais au lieu de laisser le « non » devenir une déception, nous pouvons l’utiliser comme le début d’une nouvelle idée.
 
 Ce jour-là, nous n’avons pas acheté la glace bleue.
 
