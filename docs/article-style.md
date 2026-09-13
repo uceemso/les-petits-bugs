@@ -52,6 +52,6 @@ Le script `scripts/check-article-formatting.mjs` vérifie automatiquement ces r�
 
 ## Normalisation automatique
 
-Avant chaque build, `scripts/normalize-article-formatting.mjs` corrige les écarts simples et sans ambiguïté, notamment les citations Markdown et les citations françaises isolées, en les transformant en `callout`.
+Avant chaque build, `scripts/normalize-article-formatting.mjs` corrige les écarts simples et sans ambiguïté : les citations Markdown et les citations françaises isolées deviennent des `callout`, les anciens titres ou labels de catégorie présents dans le corps sont retirés, et les guillemets fermants restent attachés au texte sur mobile.
 
 Ensuite, `scripts/check-article-formatting.mjs` contrôle ce qui reste. Le build ne doit échouer que pour un problème structurel ou un choix visuel qui ne peut pas être décidé automatiquement sans risque de modifier l'intention de l'article.
