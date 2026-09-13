@@ -22,11 +22,11 @@ Je n’avais pas vraiment envie de faire le trajet ce jour-là. Et, soyons honn�
 
 J’aurais pu répondre simplement :
 
-« Non, pas aujourd’hui. »
+<div class="callout">« Non, pas aujourd’hui. »</div>
 
 Mais au lieu de fermer complètement la porte, je lui ai proposé une autre idée :
 
-« Et si on fabriquait notre propre glace bleue à la maison ? »
+<div class="callout">« Et si on fabriquait notre propre glace bleue à la maison ? »</div>
 
 ## Une glace inventée en quelques minutes
 
@@ -68,7 +68,7 @@ Cela ne signifie pas qu’il faut transformer chaque « non » en activité cr�
 
 Mais lorsque nous avons un peu d’énergie, nous pouvons parfois chercher une autre porte d’entrée.
 
-« On ne va pas acheter cette glace aujourd’hui, mais on peut en inventer une à la maison. »
+<div class="callout">« On ne va pas acheter cette glace aujourd’hui, mais on peut en inventer une à la maison. »</div>
 
 La limite reste là. Nous n’allons pas au magasin. Nous ne choisissons pas exactement le goûter demandé.
 
