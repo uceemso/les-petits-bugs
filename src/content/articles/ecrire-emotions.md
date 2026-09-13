@@ -16,19 +16,19 @@ readingTime: "4 min de lecture"
 
 Parfois, on voit bien que quelque chose ne va pas. Notre enfant est contrarié, tendu ou au bord des larmes, mais dès qu’on lui demande ce qui se passe, il se ferme.
 
-Il répond « rien », détourne le regard ou s’énerve encore davantage. Ce silence ne veut pas forcément dire qu’il refuse de nous parler. Il peut simplement ne pas savoir comment transformer ce qu’il ressent en mots.
+Il répond « rien », détourne le regard ou s’énerve encore davantage. Ce silence ne veut pas forcément dire qu’il refuse de nous parler. Il peut simplement ne pas savoir comment transformer ce qu’il ressent en mots.
 
 **Ne pas être prêt à parler ne signifie pas que l’émotion doit être ignorée.**
 
 ## Quand les questions ajoutent de la pression
 
-Quand notre enfant va mal, nous voulons naturellement comprendre. Alors nous demandons : « Qu’est-ce qu’il y a ? », « Pourquoi tu pleures ? », « Qu’est-ce qui s’est passé ? »
+Quand notre enfant va mal, nous voulons naturellement comprendre. Alors nous demandons : « Qu’est-ce qu’il y a ? », « Pourquoi tu pleures ? », « Qu’est-ce qui s’est passé ? »
 
 Mais au cœur d’une grosse émotion, répondre peut sembler impossible. L’enfant doit à la fois comprendre ce qui se passe en lui, trouver les mots et supporter notre attente. Même une question pleine de douceur peut alors ressembler à une pression supplémentaire.
 
 Plutôt que d’insister, on peut proposer un autre chemin.
 
-<div class="callout highlight"><span class="callout-label">Une phrase à essayer</span>« Tu n’as pas besoin de m’expliquer maintenant. Si tu veux, on peut l’écrire ou le dessiner. »</div>
+<div class="callout highlight"><span class="callout-label">Une phrase à essayer</span>« Tu n’as pas besoin de m’expliquer maintenant. Si tu veux, on peut l’écrire ou le dessiner. »</div>
 
 ## Mettre l’émotion à l’extérieur
 
@@ -36,9 +36,9 @@ Plutôt que d’insister, on peut proposer un autre chemin.
 
 On peut écrire :
 
-- « Tu voulais vraiment ce jouet. On va le mettre sur ta liste de souhaits. »
-- « Cette journée était difficile. Faisons une petite liste de tout ce qui s’est mal passé. »
-- « Tu as beaucoup de choses dans la tête. Je peux les noter pendant que tu me les dictes. »
+- « Tu voulais vraiment ce jouet. On va le mettre sur ta liste de souhaits. »
+- « Cette journée était difficile. Faisons une petite liste de tout ce qui s’est mal passé. »
+- « Tu as beaucoup de choses dans la tête. Je peux les noter pendant que tu me les dictes. »
 
 Le problème n’est pas forcément résolu. Mais il est devenu visible, plus concret et souvent un peu moins envahissant.
 
@@ -48,13 +48,13 @@ Cette idée fonctionne aussi avec les tout-petits. Le parent peut tenir le crayo
 
 L’important n’est pas la forme. C’est le message que nous lui envoyons :
 
-<p class="closing-line">« Ce que tu ressens a une place ici. »</p>
+<p class="closing-line">« Ce que tu ressens a une place ici. »</p>
 
 Cette façon de faire part de la même idée que [reconnaître l’émotion avant de chercher à la corriger](/article-emotions.html) : l’enfant n’a pas besoin que son ressenti disparaisse pour que nous puissions l’accompagner.
 
 Une liste de souhaits accueille une envie sans promettre de l’exaucer. Un dessin accueille une colère sans autoriser les coups. Quelques mots sur une feuille reconnaissent une déception sans avoir besoin de la faire disparaître.
 
-Quand il s’agit surtout de poser une limite, [proposer une alternative concrète plutôt qu’un simple « non »](/article-limites.html) peut aussi aider l’enfant à savoir quoi faire à la place.
+Quand il s’agit surtout de poser une limite, [proposer une alternative concrète plutôt qu’un simple « non »](/article-limites.html) peut aussi aider l’enfant à savoir quoi faire à la place.
 
 ## Créer de l’espace pour parler plus tard
 
@@ -62,6 +62,6 @@ Quand il s’agit surtout de poser une limite, [proposer une alternative concrè
 
 Certains enfants voudront relire la feuille quelques minutes plus tard. D’autres reviendront dessus le soir ou le lendemain. D’autres encore n’en parleront pas du tout, mais auront tout de même senti que leur expérience a été prise au sérieux.
 
-<div class="example-list"><p>« Je peux l’écrire pour toi. »</p><p>« On le met sur la liste pour ne pas l’oublier. »</p><p>« Tu peux me montrer avec un dessin. »</p></div>
+<div class="example-list"><p>« Je peux l’écrire pour toi. »</p><p>« On le met sur la liste pour ne pas l’oublier. »</p><p>« Tu peux me montrer avec un dessin. »</p></div>
 
 Tout n’a pas besoin d’être compris et réparé dans l’instant. Parfois, une émotion a simplement besoin d’être déposée quelque part avant de pouvoir être racontée.
