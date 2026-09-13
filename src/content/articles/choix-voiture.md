@@ -40,10 +40,10 @@ Et étonnamment, ça change parfois complètement l’ambiance.
 
 Quand j’y pense, les enfants passent une bonne partie de leur journée à entendre :
 
-« Mets tes chaussures. »  
-« Viens. »  
-« Mets ton manteau. »  
-« Dépêche-toi. »
+<div class="callout">« Mets tes chaussures. »</div>
+<div class="callout">« Viens. »</div>
+<div class="callout">« Mets ton manteau. »</div>
+<div class="callout">« Dépêche-toi. »</div>
 
 Même quand toutes ces demandes sont parfaitement légitimes, ça fait beaucoup de décisions prises par quelqu’un d’autre.
 
