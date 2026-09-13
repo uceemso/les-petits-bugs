@@ -1,0 +1,191 @@
+---
+---
+<section class="newsletter-signup" aria-labelledby="newsletter-title">
+  <div class="newsletter-inner">
+    <p class="section-kicker">Les prochains petits débugs</p>
+    <h2 id="newsletter-title">Ne ratez pas les prochains petits débugs</h2>
+    <p class="newsletter-intro">Des idées simples et des expériences vraies pour accompagner les grands moments du quotidien avec les enfants.</p>
+
+    <div id="mlb2-45888451" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-45888451">
+      <div class="ml-form-align-center">
+        <div class="ml-form-embedWrapper embedForm">
+          <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+            <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/2633345/forms/198530575850538070/subscribe" data-code="" method="post" target="_blank">
+              <div class="ml-form-formContent">
+                <div class="ml-form-fieldRow ml-last-item">
+                  <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+                    <label class="sr-only" for="ml-email-45888451">Votre adresse email</label>
+                    <input id="ml-email-45888451" aria-label="email" aria-required="true" type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Votre adresse email" autocomplete="email" required />
+                  </div>
+                </div>
+              </div>
+
+              <div class="ml-form-checkboxRow ml-validate-required">
+                <label class="checkbox">
+                  <input type="checkbox" required />
+                  <span class="label-description">J’accepte de recevoir par email les nouvelles publications de Les Petits Bugs. Je pourrai me désinscrire à tout moment.</span>
+                </label>
+              </div>
+
+              <input type="hidden" name="ml-submit" value="1" />
+              <div class="ml-form-embedSubmit">
+                <button type="submit" class="primary">Je m’inscris</button>
+                <button disabled="disabled" style="display: none;" type="button" class="loading" aria-label="Inscription en cours">
+                  <span class="ml-form-embedSubmitLoad" aria-hidden="true"></span>
+                </button>
+              </div>
+              <input type="hidden" name="anticsrf" value="true" />
+            </form>
+          </div>
+
+          <div class="ml-form-successBody row-success" style="display: none">
+            <div class="ml-form-successContent">
+              <h3>Merci !</h3>
+              <p>Ton inscription est bien enregistrée.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script is:inline>
+  function ml_webform_success_45888451() {
+    const form = document.querySelector('.ml-subscribe-form-45888451');
+    form?.querySelector('.row-success')?.removeAttribute('style');
+    form?.querySelector('.row-form')?.setAttribute('style', 'display: none');
+  }
+</script>
+<script is:inline src="https://groot.mailerlite.com/js/w/webforms.min.js?v83147fa8ce2d95cb73ece7f28b469519"></script>
+<script is:inline>
+  fetch("https://assets.mailerlite.com/jsonp/2633345/forms/198530575850538070/takel");
+</script>
+
+<style is:global>
+  .newsletter-signup {
+    padding: 24px 0 64px;
+  }
+
+  .newsletter-inner {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 34px 30px 30px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--cream-deep);
+    text-align: center;
+  }
+
+  .newsletter-signup .section-kicker {
+    margin-bottom: 5px;
+  }
+
+  .newsletter-signup h2 {
+    font-size: clamp(28px, 5vw, 36px);
+  }
+
+  .newsletter-intro {
+    max-width: 48ch;
+    margin: 12px auto 24px;
+    color: var(--ink-soft);
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .newsletter-signup .ml-form-embedContainer,
+  .newsletter-signup .ml-form-embedWrapper,
+  .newsletter-signup .ml-form-embedBody,
+  .newsletter-signup .ml-block-form {
+    width: 100%;
+  }
+
+  .newsletter-signup .ml-form-embedWrapper,
+  .newsletter-signup .ml-form-embedBody {
+    background: transparent;
+  }
+
+  .newsletter-signup .ml-form-embedBody {
+    padding: 0;
+  }
+
+  .newsletter-signup .ml-form-fieldRow {
+    margin: 0 0 12px;
+  }
+
+  .newsletter-signup .ml-field-group {
+    text-align: left;
+  }
+
+  .newsletter-signup .ml-form-fieldRow input {
+    width: 100%;
+    padding: 13px 15px;
+    border: 1px solid #d7cdbd;
+    border-radius: 10px;
+    background: var(--cream);
+    color: var(--ink);
+    font: 15px "Inter", system-ui, sans-serif;
+  }
+
+  .newsletter-signup .ml-form-fieldRow input:focus {
+    outline: 2px solid var(--sage);
+    outline-offset: 2px;
+  }
+
+  .newsletter-signup .ml-form-checkboxRow {
+    margin: 0 0 16px;
+    text-align: left;
+  }
+
+  .newsletter-signup .ml-form-checkboxRow label {
+    display: flex;
+    align-items: flex-start;
+    gap: 9px;
+    color: var(--ink-soft);
+    font-size: 12px;
+    line-height: 1.5;
+  }
+
+  .newsletter-signup .ml-form-checkboxRow input {
+    flex: 0 0 auto;
+    width: 16px;
+    height: 16px;
+    margin-top: 2px;
+    accent-color: var(--sage-deep);
+  }
+
+  .newsletter-signup .ml-form-embedSubmit button {
+    width: 100%;
+    padding: 13px 20px;
+    border: 0;
+    border-radius: 999px;
+    background: var(--terracotta);
+    color: #fff;
+    cursor: pointer;
+    font: 500 15px "Inter", system-ui, sans-serif;
+  }
+
+  .newsletter-signup .ml-form-embedSubmit button:hover {
+    background: var(--terracotta-deep);
+  }
+
+  .newsletter-signup .ml-form-successBody {
+    padding: 0;
+  }
+
+  .newsletter-signup .ml-form-successContent h3 {
+    margin: 0 0 6px;
+    font: 600 28px/1.15 "Newsreader", Georgia, serif;
+  }
+
+  .newsletter-signup .ml-form-successContent p {
+    margin: 0;
+    color: var(--ink-soft);
+  }
+
+  @media (max-width: 480px) {
+    .newsletter-inner {
+      padding: 28px 20px 24px;
+    }
+  }
+</style>
