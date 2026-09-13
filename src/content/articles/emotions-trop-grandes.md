@@ -28,7 +28,7 @@ Et pour lui, ce n'était pas un petit problème.
 
 J'aurais pu lui dire :
 
-> « Ce n'est pas grave, on en achètera d'autres. »
+> « Ce n'est pas grave, on en achètera d'autres. »
 
 C'était vrai. Et parfaitement inutile à ce moment-là.
 
@@ -50,13 +50,13 @@ Les chaussures étaient toujours trop petites. Mais **la tempête, elle, était 
 
 Les jeunes enfants ne passent pas toujours par les mots pour gérer leurs émotions. Ils passent aussi par le corps, le jeu et la création.
 
-Alors parfois, plutôt que de demander encore « Qu'est-ce qui ne va pas ? », on peut proposer :
+Alors parfois, plutôt que de demander encore « Qu'est-ce qui ne va pas ? », on peut proposer :
 
-« Tu veux le dessiner ? »
+« Tu veux le dessiner ? »
 
-« On déchire du papier ? »
+« On déchire du papier ? »
 
-« Montre-moi avec tes jouets. »
+« Montre-moi avec tes jouets. »
 
 ## Le petit bug à retenir
 
