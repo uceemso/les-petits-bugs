@@ -3,9 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "predev": "node scripts/normalize-article-formatting.mjs && node scripts/check-article-formatting.mjs && node scripts/prepare-generated-assets.mjs",
+    "predev": "node scripts/normalize-article-formatting.mjs && node scripts/check-article-formatting.mjs",
     "dev": "astro dev",
-    "prebuild": "node scripts/normalize-article-formatting.mjs && node scripts/check-article-formatting.mjs && node scripts/prepare-generated-assets.mjs",
+    "prebuild": "node scripts/normalize-article-formatting.mjs && node scripts/check-article-formatting.mjs",
     "build": "astro build",
     "preview": "astro preview"
   },
