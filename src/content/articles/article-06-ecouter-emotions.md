@@ -1,5 +1,95 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×¾<N‹Z–‹­¦ëeŠw¬Ô´´´)Ñ¥Ñ±”è€‰Ù…¹Ğ‘”½ÉÉ¥•È°½µµ•»½¹ÌÁ…Èƒ¥½ÕÑ•Èˆ)Í•½Q¥Ñ±”è€‹%µ½Ñ¥½¹Ì™½ÉÑ•Ì¡•è³Še•¹™…¹Ğ€èƒ¥½ÕÑ•È…Ù…¹Ğ‘”½ÉÉ¥•Èˆ)‘•ÍÉ¥ÁÑ¥½¸è€‰U¸•¹™…¹Ğ‰½Õ±•Ù•ÉÏ¤»Še„Á…ÌÑ½Õ©½ÕÉÌ‰•Í½¥¸“ŠeÕ¹”Í½±ÕÑ¥½¸¸A½ÕÉÅÕ½¤É•½¹¹‡¹ÑÉ”Í½¸ƒ¥µ½Ñ¥½¸Á•ÕĞƒ©ÑÉ”±”ÁÉ•µ¥•ÈÁ…Ì…Ù…¹Ğ‘”Á½Í•ÈÕ¹”±¥µ¥Ñ”½Ô¡•É¡•ÈÕ¹”Í½±ÕÑ¥½¸¸ˆ)Í•½•ÍÉ¥ÁÑ¥½¸è€‰EÕ…¹Õ¸•¹™…¹Ğ•ÍĞ‰½Õ±•Ù•ÉÏ¤°™…ÕĞµ¥°½ÉÉ¥•È½Ôƒ¥½ÕÑ•È€ü¥½ÕÙÉ•èÁ½ÕÉÅÕ½¤É•½¹¹‡¹ÑÉ”Í½¸ƒ¥µ½Ñ¥½¸…¥‘”…Ù…¹Ğ‘”Á½Í•ÈÕ¹”±¥µ¥Ñ”½Ô¡•É¡•ÈÕ¹”Í½±ÕÑ¥½¸¸ˆ)‘…Ñ”è€ÈÀÈØ´Àä´ÄÀ)ÕÁ‘…Ñ•è€ÈÀÈØ´Àä´ÄÀ)…Ñ•½Éäè€‹%µ½Ñ¥½¹Ìˆ)¥µ…”è€ˆ½¥µ…•Ì½…ÉÑ¥±•Ì½…ÉÑ¥±”´ÀØµ•½ÕÑ•Èµ•µ½Ñ¥½¹Ì¹İ•‰Àˆ)¥µ…•±Ğè€‰U¹”·¡É”…ÍÍ¥Í”…ÕÁË¡Ì‘”Í½¸•¹™…¹ĞÑÉ¥ÍÑ”°‘…¹ÌÕ¹”¥±±ÕÍÑÉ…Ñ¥½¸ƒ€³Še…ÅÕ…É•±±”¸ˆ)¥µ…•]¥‘Ñ è€ÄØÀÀ)¥µ…•!•¥¡Ğè€äÀÀ)Í±Õœè…ÉÑ¥±”µ•µ½Ñ¥½¹Ì)É•…‘¥¹Q¥µ”è€ˆĞµ¥¸‘”±•ÑÕÉ”ˆ(´´´()EÕ…¹Õ¸•¹™…¹Ğ•ÍĞ‰½Õ±•Ù•ÉÏ¤°¹½ÑÉ”ÁÉ•µ¥•ÈË¥™±•á”•ÍĞÍ½ÕÙ•¹Ğ‘”Ù½Õ±½¥È…ÉÉ…¹•È±•Ì¡½Í•Ì¸()=¸¡•É¡”Õ¹”Í½±ÕÑ¥½¸¸=¸•áÁ±¥ÅÕ”Á½ÕÉÅÕ½¤¥°¹”‘•ÙÉ…¥ĞÁ…Ìƒ©ÑÉ”ÑÉ¥ÍÑ”¸=¸•ÍÍ…¥”‘”±Õ¤™…¥É”Ù½¥È±”‰½¸ÑÓ¤‘•Ì¡½Í•Ì¸=ÔÁ…É™½¥Ì°½¸Ù•ÕĞÍ¥µÁ±•µ•¹ĞÅÕ”±„É¥Í”ÏŠe…ÉË©Ñ”±”Á±ÕÌÙ¥Ñ”Á½ÍÍ¥‰±”¸()A½ÕÉÑ…¹Ğ°‘…¹Ì•Ìµ½µ•¹ÑÌµ³€°±•Ì•¹™…¹ÑÌ»Še½¹ĞÁ…ÌÑ½Õ©½ÕÉÌ‰•Í½¥¸“ŠeÕ¹”•áÁ±¥…Ñ¥½¸¸((¨©%±Ì½¹Ğ“Še…‰½É‰•Í½¥¸ÅÕ”±•ÕÈƒ¥µ½Ñ¥½¸Í½¥ĞÉ•½¹¹Õ”¸¨¨((ŒŒƒ
-¬QÔ•ÌÙÉ…¥µ•¹Ğ“§Ô°¡•¥¸€ÿ
-ƒ
-ì()%µ…¥¹•èÙ½ÑÉ”•¹™…¹ĞÅÕ¤…ÑÑ•¹‘…¥ĞÅÕ•±ÅÕ”¡½Í”…Ù•Œ¥µÁ…Ñ¥•¹”•ĞÅÕ¤…ÁÁÉ•¹ÅÕ”•±„»Še…ÕÉ„™¥¹…±•µ•¹ĞÁ…Ì±¥•Ô¸()9½ÑÉ”ÁÉ•µ¥•ÈË¥™±•á”Á½ÕÉÉ…¥Ğƒ©ÑÉ”€è((ñ‘¥Ø¾<¶‰ËkºwµçY]^]YH›İ\È\ÜØ^[ÛœÈH˜Z\™H\Ü\˜pë™H[[pêYX][Y[ØHš\İ\ÜÙKØHÛÛ0ê™HİHØHœ\İ˜][Û‹‚‚“XZ\È™\ÜÙ[\ˆ[™H0ê[[İ[Ûˆ0ê\ØYÜ°êXX›H¸ &Y\İ\È[ˆ›Ø›0êYH0è°ê\ÛİY™K‚‚•[ˆ[™˜[]]0ê™Hš\İHØ[œÈ]YH›İ\È^[ÛœÈ™\ÛÚ[ˆHH™[™™H]\™]^ˆ[]]0ê™H[ˆÛÛ0ê™HØ[œÈ]YH›İ\È^[ÛœÈ™\ÛÚ[ˆH˜Z\™H\Ü\˜pë™HØHÛÛ0ê™Kˆ[]]0ê™H0êpéİHØ[œÈ]YH›İ\È^[ÛœÈ™\ÛÚ[ˆHZH›İ]™\ˆ[[pêYX][Y[]Y[]YHÚÜÙHHZY]^‚‚ŠŠ“›İ™H°íH¸ &Y\İ\ÈHZH0ê]š]\ˆİ]\È\È0ê[[İ[ÛœÈY™šXÚ[\Ëˆø &Y\İHZH[Û™\ˆ]x &Z[]]\È˜]™\œÙ\‹ŠŠ‚‚ˆÈÈH›ØÚZ[™H›Ú\Ë\ÜØ^Y^ˆÚ[\[Y[H›Û[Y\‚‚“H›ØÚZ[™H›Ú\È]YH›İ™H[™˜[^ÜÙH\˜ÙH]YHÛÛˆ\ÜÚ[ˆø &Y\İ0êXÚ\°êK]YHHÛÜYH\İ[›[0êYHİH]x &Z[Ú]\œ°ê\ˆH›İY\‹\ÜØ^Y^ˆ]]pê™HHÛÛ[Y[˜Ù\ˆ\ˆ[™HÙ][HÚÜÙHˆY]^ˆ\È[İÈİ\ˆÙH]YH›İ\È›ŞY^‹‚‚]ˆÛ\ÜÏH™^[\K[\İ°ªÈH\Èœ˜Z[Y[0êpéİK°¨0®ÏÜ°ªÈø &Y\İœ\İ˜[]X[™ÙH]x &[Ûˆ]˜Z]ÛÛœİZ]ÛX™H\ˆ\œ™K°¨0®ÏÜ°ªÈH]\˜Z\Èœ˜Z[Y[Z[pêH]YH0éØHÙH\ÜÙH]]™[Y[°¨0®ÏÜÙ]‚‚”\È™\ÛÚ[ˆH\ØÛİ\œËˆ\È™\ÛÚ[ˆHÛÛ˜Z[˜Ü™K‚‚‘]ÚH\È[İÈ™HšY[›™[\ËÛˆ]]]\ÜÚHÜ\ÜÙ\ˆ\ˆ8 &pêXÜš]\™KH\ÜÚ[ˆİH[™H]]H\İWJØ\XÛKYXÜš\™KY[[İ[ÛœËš[
-H]™]™[š\ˆ0èHÛÛ™\œØ][Ûˆ\È\™‚‚’\İH[™H]]H]\ÙHİ\ˆZH\™H‚‚Û\ÜÏH˜ÛÜÚ[™Ë[[™H°ªÈ™H›Ú\ÈÙH]YHH™\ÜÙ[œË°¨0®ÏÜ‚‚‘]\™›Ú\Ëø &Y\İ°êXÚ\ğê[Y[ÙHÛ[]˜Z]™\ÛÚ[ˆİ\ˆİ]›Ú\ˆ]˜[˜Ù\‹‚
+---
+title: "Avant de corriger, commenÃ§ons par Ã©couter"
+seoTitle: "Ã‰motions fortes chez lâ€™enfant : Ã©couter avant de corriger"
+description: "Un enfant bouleversÃ© nâ€™a pas toujours besoin dâ€™une solution. Pourquoi reconnaÃ®tre son Ã©motion peut Ãªtre le premier pas avant de poser une limite ou chercher une solution."
+seoDescription: "Quand un enfant est bouleversÃ©, faut-il corriger ou Ã©couter ? DÃ©couvrez pourquoi reconnaÃ®tre son Ã©motion aide avant de poser une limite ou chercher une solution."
+date: 2026-09-10
+updated: 2026-09-10
+category: "Ã‰motions"
+image: "/images/illustration-emotions.webp"
+imageAlt: "Une mÃ¨re assise auprÃ¨s de son enfant triste, dans une illustration Ã  lâ€™aquarelle."
+imageWidth: 1600
+imageHeight: 900
+slug: article-emotions
+readingTime: "4 min de lecture"
+---
+
+Quand un enfant est bouleversÃ©, notre premier rÃ©flexe est souvent de vouloir arranger les choses.
+
+On cherche une solution. On explique pourquoi il ne devrait pas Ãªtre triste. On essaie de lui faire voir le bon cÃ´tÃ© des choses. Ou parfois, on veut simplement que la crise sâ€™arrÃªte le plus vite possible.
+
+Pourtant, dans ces moments-lÃ , les enfants nâ€™ont pas toujours besoin dâ€™une explication.
+
+**Ils ont dâ€™abord besoin que leur Ã©motion soit reconnue.**
+
+## Â« Tu es vraiment dÃ©Ã§u, hein ?Â Â»
+
+Imaginez votre enfant qui attendait quelque chose avec impatience et qui apprend que cela nâ€™aura finalement pas lieu.
+
+Notre premier rÃ©flexe pourrait Ãªtre :
+
+<div class="quote-pair"><div class="quote bad"><span>On rÃ©pond souvent</span>Â« Mais ce nâ€™est pas grave, on fera autre chose !Â Â»</div><div class="quote good"><span>On peut essayer</span>Â« Tu avais vraiment hÃ¢te de faire Ã§a. Câ€™est dÃ©cevant que ce ne soit pas possible.Â Â»</div></div>
+
+On ne rÃ¨gle rien. On ne cherche mÃªme pas encore de solution.
+
+**On montre simplement Ã  lâ€™enfant quâ€™on a compris ce quâ€™il est en train de vivre.**
+
+## ReconnaÃ®tre une Ã©motion ne veut pas dire accepter le comportement
+
+Câ€™est probablement lâ€™une des distinctions les plus importantes.
+
+On peut reconnaÃ®tre la colÃ¨re sans accepter que lâ€™enfant frappe.
+
+On peut comprendre la frustration sans le laisser jeter son jouet.
+
+On peut entendre sa dÃ©ception sans changer une rÃ¨gle que lâ€™on vient de poser.
+
+<div class="callout"><strong>Par exemple :</strong><br>Â« Je vois que tu es trÃ¨s en colÃ¨re. Tu voulais vraiment continuer Ã  jouer. Je ne vais pas te laisser me taper.Â Â»</div>
+
+Lâ€™Ã©motion est accueillie. La limite reste lÃ .
+
+**Lâ€™un nâ€™empÃªche pas lâ€™autre.**
+
+Quand il faut poser cette limite, [proposer ce que lâ€™enfant peut faire Ã  la place](/article-limites.html) peut parfois Ã©viter le bras de fer.
+
+## Pourquoi commencer par lâ€™Ã©motion ?
+
+Lorsquâ€™un enfant est submergÃ© par une grosse Ã©motion, il nâ€™est pas forcÃ©ment disponible pour Ã©couter une longue explication ou rÃ©flÃ©chir Ã  une solution.
+
+Si nous commenÃ§ons immÃ©diatement par corriger, expliquer ou raisonner, lâ€™enfant peut avoir lâ€™impression que nous ne comprenons pas ce quâ€™il ressent. Et parfois, cela amplifie encore sa rÃ©action.
+
+Quelques mots simples peuvent suffire :
+
+- Â« Tu es frustrÃ©.Â Â»
+- Â« Tu voulais vraiment Ã§a.Â Â»
+- Â« Câ€™est difficile quand les choses ne se passent pas comme prÃ©vu.Â Â»
+
+Une fois que lâ€™enfant se sent compris, il devient souvent plus disponible pour entendre la suite.
+
+<div class="callout highlight"><span class="callout-label">Le petit changement</span><strong>Dâ€™abord la connexion.</strong> Ensuite la correction, la limite ou la recherche de solution.</div>
+
+## Et si nous arrÃªtions de vouloir faire disparaÃ®tre les Ã©motions ?
+
+Nous avons parfois tellement envie de voir notre enfant heureux que nous essayons de faire disparaÃ®tre immÃ©diatement sa tristesse, sa colÃ¨re ou sa frustration.
+
+Mais ressentir une Ã©motion dÃ©sagrÃ©able nâ€™est pas un problÃ¨me Ã  rÃ©soudre.
+
+Un enfant peut Ãªtre triste sans que nous ayons besoin de le rendre heureux. Il peut Ãªtre en colÃ¨re sans que nous ayons besoin de faire disparaÃ®tre sa colÃ¨re. Il peut Ãªtre dÃ©Ã§u sans que nous ayons besoin de lui trouver immÃ©diatement quelque chose de mieux.
+
+**Notre rÃ´le nâ€™est pas de lui Ã©viter toutes les Ã©motions difficiles. Câ€™est de lui montrer quâ€™il peut les traverser.**
+
+## La prochaine fois, essayez simplement de nommer
+
+La prochaine fois que votre enfant explose parce que son dessin sâ€™est dÃ©chirÃ©, que la sortie est annulÃ©e ou quâ€™il doit arrÃªter de jouer, essayez peut-Ãªtre de commencer par une seule chose : mettez des mots sur ce que vous voyez.
+
+<div class="example-list"><p>Â« Tu es vraiment dÃ©Ã§u.Â Â»</p><p>Â« Câ€™est frustrant quand ce quâ€™on avait construit tombe par terre.Â Â»</p><p>Â« Tu aurais vraiment aimÃ© que Ã§a se passe autrement.Â Â»</p></div>
+
+Pas besoin de discours. Pas besoin de convaincre.
+
+Et si les mots ne viennent pas, on peut aussi [passer par lâ€™Ã©criture, le dessin ou une petite liste](/article-ecrire-emotions.html) et revenir Ã  la conversation plus tard.
+
+Juste une petite pause pour lui dire :
+
+<p class="closing-line">Â« Je vois ce que tu ressens.Â Â»</p>
+
+Et parfois, câ€™est prÃ©cisÃ©ment ce dont il avait besoin pour pouvoir avancer.
