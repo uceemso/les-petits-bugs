@@ -30,7 +30,7 @@ La crise a commencé pendant que nous payions. Elle a continué jusque dans la r
 
 J’ai commencé par mes outils habituels. J’ai reconnu ce qu’il ressentait :
 
-« Tu es frustré et très contrarié. Je comprends. Tu voulais vraiment passer par la première caisse. »
+« Tu es frustré et très contrarié. Je comprends. Tu voulais vraiment passer par la première caisse. »
 
 J’ai essayé quelques autres choses qui fonctionnent parfois. Mais rien ne semblait l’aider à redescendre.
 
@@ -38,17 +38,17 @@ Puis j’ai eu une idée.
 
 J’ai sorti mon téléphone, ouvert une note vierge et demandé :
 
-« Tu veux que j’écrive tout ? »
+« Tu veux que j’écrive tout ? »
 
-Il a répondu par un petit « oui » timide.
+Il a répondu par un petit « oui » timide.
 
 J’ai alors commencé à écrire, tout en lisant les phrases à voix haute :
 
-« Aujourd’hui, nous sommes passés par la deuxième caisse. Gabriel voulait aller à la première caisse, mais elle était fermée. Gabriel n’a pas aimé ça. La prochaine fois, il aimerait passer par la première caisse. »
+« Aujourd’hui, nous sommes passés par la deuxième caisse. Gabriel voulait aller à la première caisse, mais elle était fermée. Gabriel n’a pas aimé ça. La prochaine fois, il aimerait passer par la première caisse. »
 
 Nous avons même ajouté une phrase un peu moins raisonnable :
 
-« Gabriel veut casser la deuxième caisse. »
+« Gabriel veut casser la deuxième caisse. »
 
 À ce moment-là, il avait complètement arrêté de pleurer. Il écoutait attentivement.
 
@@ -64,13 +64,13 @@ Mais l’écriture a donné une forme à ce qu’il vivait.
 
 Sa frustration, qui semblait immense et impossible à contenir, est devenue une histoire. Une histoire avec un début, un problème, une envie pour la prochaine fois et même une petite touche d’humour.
 
-Surtout, Gabriel a senti que ce moment comptait. Son expérience avait été vue, entendue et conservée quelque part. Une fois son histoire « rangée » dans la note, il a pu passer à autre chose.
+Surtout, Gabriel a senti que ce moment comptait. Son expérience avait été vue, entendue et conservée quelque part. Une fois son histoire « rangée » dans la note, il a pu passer à autre chose.
 
 ## Comment essayer à votre tour
 
 Cette idée ne fonctionnera pas forcément à chaque fois. Mais lorsque les mots sont difficiles à trouver, on peut proposer d’écrire sans imposer :
 
-« Tu veux que je note ce qui s’est passé ? »
+« Tu veux que je note ce qui s’est passé ? »
 
 Il n’est pas nécessaire d’écrire beaucoup. Quelques phrases simples suffisent : ce qui s’est passé, ce que l’enfant voulait, ce qu’il a ressenti et ce qu’il aimerait pour la prochaine fois.
 
