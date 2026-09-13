@@ -6,7 +6,7 @@ seoDescription: "Quand un enfant est plongé dans son jeu, entrer dans son unive
 date: 2026-09-13
 updated: 2026-09-13
 category: "Quotidien"
-image: "/images/articles/article-09-jouer-plus-rapide-v2.webp"
+image: "/images/articles/article-09-jouer-plus-rapide-v3.webp"
 imageAlt: "Marie court à côté de Gabriel sur sa trottinette en arrivant devant la crèche."
 imageWidth: 1600
 imageHeight: 900
