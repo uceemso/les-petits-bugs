@@ -8,8 +8,8 @@ updated: 2026-07-20
 category: "Coopération"
 image: "/images/illustration-choix-voiture.webp"
 imageAlt: "Une mère et son fils avancent vers une voiture, l’enfant tenant un dinosaure et faisant un grand pas."
-imageWidth: 800
-imageHeight: 800
+imageWidth: 1600
+imageHeight: 900
 slug: article-choix-voiture
 readingTime: "3 min de lecture"
 ---

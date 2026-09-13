@@ -6,8 +6,10 @@ seoDescription: "Quand un enfant est bouleversé, faut-il corriger ou écouter ?
 date: 2026-09-10
 updated: 2026-09-10
 category: "Émotions"
-image: "/images/illustration-emotions.jpg"
+image: "/images/illustration-emotions.webp"
 imageAlt: "Une mère assise auprès de son enfant triste, dans une illustration à l’aquarelle."
+imageWidth: 1600
+imageHeight: 900
 slug: article-emotions
 readingTime: "4 min de lecture"
 ---

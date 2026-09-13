@@ -6,10 +6,10 @@ seoDescription: "Comment poser une limite sans entrer dans le bras de fer ? Troi
 date: 2026-08-22
 updated: 2026-08-22
 category: "Discipline positive"
-image: "/images/illustration-limites.jpg"
+image: "/images/illustration-limites.webp"
 imageAlt: "Un grand frère joue avec un chien en peluche devant sa petite sœur dans un jardin."
-imageWidth: 1200
-imageHeight: 655
+imageWidth: 1600
+imageHeight: 900
 slug: article-limites
 readingTime: "6 min de lecture"
 ---

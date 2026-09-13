@@ -6,10 +6,10 @@ seoDescription: "Une idée simple pour aider un jeune enfant à exprimer une gro
 date: 2026-06-30
 updated: 2026-06-30
 category: "Émotions"
-image: "/images/illustration-emotions-trop-grandes.jpeg"
+image: "/images/illustration-emotions-trop-grandes.webp"
 imageAlt: "Gabriel déchire du papier pour exprimer sa frustration pendant que sa mère reste assise près de lui, calme et attentive."
-imageWidth: 1312
-imageHeight: 1199
+imageWidth: 1600
+imageHeight: 900
 slug: article-emotions-trop-grandes
 readingTime: "3 min de lecture"
 ---

@@ -6,8 +6,10 @@ seoDescription: "Un enfant n’est pas prêt à parler de ce qu’il ressent ? �
 date: 2026-06-18
 updated: 2026-06-18
 category: "Émotions"
-image: "/images/illustration-ecrire-emotions-topdown.jpg"
+image: "/images/illustration-ecrire-emotions-topdown.webp"
 imageAlt: "Un enfant et un adulte transforment un gribouillis en dessin sur une feuille."
+imageWidth: 1600
+imageHeight: 900
 slug: article-ecrire-emotions
 readingTime: "4 min de lecture"
 ---

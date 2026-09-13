@@ -8,8 +8,8 @@ updated: 2026-08-12
 category: "Parentalité"
 image: "/images/illustration-gouter-bleu.webp"
 imageAlt: "Une mère et son petit garçon préparent une glace bleue maison avec du yaourt et une pomme."
-imageWidth: 1536
-imageHeight: 1024
+imageWidth: 1600
+imageHeight: 900
 slug: gouter-bleu
 readingTime: "4 min de lecture"
 ---
