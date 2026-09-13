@@ -6,7 +6,7 @@ seoDescription: "Une histoire de parentalité sur la façon de transformer une d
 date: 2026-08-12
 updated: 2026-08-12
 category: "Parentalité"
-image: "/images/illustration-gouter-bleu.webp"
+image: "/images/articles/article-04-gouter-bleu.webp"
 imageAlt: "Une mère et son petit garçon préparent une glace bleue maison avec du yaourt et une pomme."
 imageWidth: 1600
 imageHeight: 900
