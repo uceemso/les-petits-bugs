@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 const articles = (await getCollection('articles', ({ data }) => !data.draft)).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
@@ -22,6 +23,7 @@ const jsonLd = [
       </div>
     </section>
     <section class="try-today"><div class="wrap"><div class="try-box"><div><span class="try-label">Une idée à tester aujourd’hui</span><h2>Quand parler est difficile, essayez d’écrire.</h2><p>« Tu n’as pas besoin de m’expliquer maintenant. Je peux l’écrire pour toi. »</p></div><a href={`${base}article-ecrire-emotions.html`} class="text-link">Lire l’article →</a></div></div></section>
+    <NewsletterSignup />
     <script is:inline>
       function toggleSearch() { const panel = document.getElementById('search-panel'); const input = document.getElementById('search-input'); if (!panel) return; panel.classList.toggle('open'); if (panel.classList.contains('open')) input?.focus(); }
       function filterCards(query) { const q = query.trim().toLowerCase(); const cards = document.querySelectorAll('#card-grid .card'); let visible = 0; cards.forEach((card) => { const match = `${card.dataset.search || ''} ${card.textContent}`.toLowerCase().includes(q); card.style.display = match ? '' : 'none'; if (match) visible++; }); const empty = document.getElementById('search-empty'); if (empty) empty.hidden = visible !== 0 || q === ''; const count = document.getElementById('article-count'); if (count) count.textContent = q ? `${visible} ${visible === 1 ? 'article' : 'articles'}` : `${cards.length} articles`; }
