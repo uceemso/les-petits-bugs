@@ -1,12 +1,57 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×<N‹Z–‹­¦ëeŠw¬Ô´´´)Ñ¥Ñ±”è€‰ĞÍ¤½¸‘¥Í…¥Ğµ½¥¹Ìƒ
-¬¹½»
-ƒ
-ìƒ€¹½Ì•¹™…¹ÑÌ€üˆ)Í•½Q¥Ñ±”è€‰A½Í•È‘•Ì±¥µ¥Ñ•ÌÍ…¹Ì‘¥É”¹½¸€è€Ì…±Ñ•É¹…Ñ¥Ù•Ì…Ù•Œ±•Ì•¹™…¹ÑÌˆ)‘•ÍÉ¥ÁÑ¥½¸è€‰QÉ½¥Ì™‡½¹Ì‘”Á½Í•ÈÕ¹”±¥µ¥Ñ”Í…¹Ì•¹ÑÉ•È‘…¹Ì±”‰É…Ì‘”™•È€èÁÉ½Á½Í•ÈÕ¹”…±Ñ•É¹…Ñ¥Ù”°½™™É¥È‘•Õà¡½¥à•ĞÁË¥Í•ÉÙ•È³Še¥¹Ñ•¹Ñ¥½¸‘”³Še•¹™…¹Ğ¸ˆ)Í•½•ÍÉ¥ÁÑ¥½¸è€‰½µµ•¹ĞÁ½Í•ÈÕ¹”±¥µ¥Ñ”Í…¹Ì•¹ÑÉ•È‘…¹Ì±”‰É…Ì‘”™•È€üQÉ½¥Ì…±Ñ•É¹…Ñ¥Ù•Ì½¹Ë¡Ñ•Ì…Ôƒ
-¬¹½»
-ƒ
-ìÁ½ÕÈ…½µÁ…¹•È±•Ì•¹™…¹ÑÌ…ÔÅÕ½Ñ¥‘¥•¸¸ˆ)‘…Ñ”è€ÈÀÈØ´Àà´ÈÈ)ÕÁ‘…Ñ•è€ÈÀÈØ´Àà´ÈÈ)…Ñ•½Éäè€‰¥Í¥Á±¥¹”Á½Í¥Ñ¥Ù”ˆ)¥µ…”è€ˆ½¥µ…•Ì½…ÉÑ¥±•Ì½…ÉÑ¥±”´ÀÔµ‘¥É”µµ½¥¹Ìµ¹½¸¹İ•‰Àˆ)¥µ…•±Ğè€‰U¸É…¹™Ë¡É”©½Õ”…Ù•ŒÕ¸¡¥•¸•¸Á•±Õ¡”‘•Ù…¹ĞÍ„Á•Ñ¥Ñ”ÏMÕÈ‘…¹ÌÕ¸©…É‘¥¸¸ˆ)¥µ…•]¥‘Ñ è€ÄØÀÀ)¥µ…•!•¥¡Ğè€äÀÀ)Í±Õœè…ÉÑ¥±”µ±¥µ¥Ñ•Ì)É•…‘¥¹Q¥µ”è€ˆØµ¥¸‘”±•ÑÕÉ”ˆ(´´´()%°ä„‘•Ìµ½µ•¹ÑÌ¿ä³Še½¸Í…¥Ğ•á…Ñ•µ•¹Ğ½µµ•¹ĞÕ¹”Í¥ÑÕ…Ñ¥½¸Ù„™¥¹¥È¸()”©½ÕÈµ³€°…‰É¥•°…Ù…¥ĞÉ…µ…ÍÏ¤‘•Ì…¥±±½Õà‘…¹Ì±”©…É‘¥¸¸M„Á•Ñ¥Ñ”ÏMÕÈƒ¥Ñ…¥Ğ©ÕÍÑ”ƒ€ÑÓ¤•Ğ©”±”Ù½å…¥Ì“¥«€Ù•¹¥È€è±Õ¤‘½¹¹•È±•Ì…¥±±½Õà°±•Ì±Õ¤±…¹•È½Ô°Á¥É”•¹½É”°±•Ì±Õ¤µ•ÑÑÉ”‘…¹Ì±•Ìµ…¥¹ÌÁ½ÕÈÅ×Še•±±”±•ÌÁ½ÉÑ”‘¥É•Ñ•µ•¹Ğƒ€±„‰½Õ¡”¸()1„Ë¥…Ñ¥½¸±„Á±ÕÌ¹…ÑÕÉ•±±”…ÕÉ…¥Ğƒ¥Ó¤‘”±Õ¤‘¥É”¹½¸¸5…¥Ì«Še…¤•ÍÍ…ç¤…ÕÑÉ”¡½Í”€è±Õ¤•áÁ±¥ÅÕ•È”Å×Še¥°Á½ÕÙ…¥Ğ™…¥É”ƒ€±„Á±…”¸((ñ‘¥Ø±…ÍÌô‰ÅÕ½Ñ”µÁ…¥Èˆøñ‘¥Ø±…ÍÌô‰ÅÕ½Ñ”‰…ˆøñÍÁ…¸ù1”Ë¥™±•á”ğ½ÍÁ…¸û
-¬…‰É¥•°°¹½¸€„9”‘½¹¹”Á…Ì±•Ì…¥±±½Õà…Ô‹¥‹¤€‡
-ƒ
-ìğ½‘¥Øøñ‘¥Ø±…ÍÌô‰ÅÕ½Ñ”½½ˆøñÍÁ…¸ù+Še…¤•ÍÍ…ç¤Á±ÕÓÑĞğ½ÍÁ…¸û
-¬M¤ÑÔÙ•Õã<¶‰ËkºwµçYHÛ›™\ˆ\ÈØZ[İ^]H°êX°êKˆH[Z]H0ê]Z]ÛZ\™KˆXZ\È0è8 &Z[0ê\šY]\ˆHÙ]H[Z]K[]˜Z][˜ÛÜ™H[™Hœ˜ZYHX™\0êHH0êXÚ\Ú[Û‹‚‚ˆÈÈËˆÚ\˜Ú\ˆÙH]YH8 &Y[™˜[\ÜØZYH°êY[[Y[H˜Z\™B‚‘\œšpê™H[ˆÛÛ\Ü[Y[]ZH›İ\ÈÜÙH›Ø›0êYK[HHÛİ]™[[™H[[[Ûˆ\™˜Z][Y[XØÙ\X›KˆØXœšY[™HÚ\˜ÚZ]›Ø˜X›[Y[\È0èY]™HØHñdİ\ˆ[ˆ[™Ù\‹ˆ[›İ[Z]›İY\‹ˆ[]˜Z]›İ]°êH]Y[]YHÚÜÙH8 &Z[0ê\™\ÜØ[]›İ[Z]]]pê™H\YÙ\ˆÛÛˆXİ]š]0êH]™XÈ[K‚‚”]0í]YHHÚ[\[Y[›Ü]Y\ˆÛÛˆY0êYK¸ &XZH\ÜØ^pêHH°ê\Ù\™\ˆ8 &Z[[[Ûˆİ][ˆÚ[™ÙX[HX[špê™HH˜Z\™Kˆ\ÈØZ[İ^È›Û‹ˆ›İY\ˆ]™XÈØHñdİ\ˆÈİZKˆ[ÜœÈ[ZH˜[Z]Ú[\[Y[[ˆ]]™H[ŞY[ˆ8 &^H\œš]™\‹‚‚ˆÈÈH]¸ &Y\İ\ÈH™H\È˜[XZ\È\™H0ªÈ›Û°¨0®Â‚šY[ˆğîÜ‹[H]\˜HİZ›İ\œÈ\È[ÛY[ÈğîH[ˆ0ªÈ›Û°¨0®ÈÙ\˜H°êXÙ\ÜØZ\™KˆÙ\Z[œÈÛÛ\Ü[Y[ÈÛÛ[™Ù\™]^]™HÛÛ\È°êYÛØÚXX›\ËˆXZ\Èİ]\È\È[Z]\È¸ &[Û\È™\ÛÚ[ˆHÛÛ[Y[˜Ù\ˆ\ˆ0ªÈ›Û°¨0®Ë‚‚‘]]X[™H[Z]H0êXÛ[˜ÚHHHœ\İ˜][Û‹Ûˆ]]]\ÜÚHØXØİYZ[\ˆ8 &pê[[İ[Ûˆ]˜[H™]™[š\ˆ0èH°êÛWJØ\XÛKY[[İ[ÛœËš[
-K‚‚”]X[™ø &Y\İÜÜÚX›KÛˆ]]\ÜØ^Y\ˆH˜[œÙ›Ü›Y\ˆ0ªÈ™H˜Z\È\È0éØp¨0®È[ˆ0ªÈ›Ú[0èÙH]YHH]^˜Z\™H0èHXÙK°¨0®Â‚ø &Y\İ[™H]]HY™°ê\™[˜ÙH[œÈ›ÜÈ[İËXZ\È[H]]]›Ú\ˆ[™HÜ˜[™HY™°ê\™[˜ÙH[œÈH°êXXİ[ÛˆH8 &Y[™˜[ˆ\˜ÙH]x &X]HY]HHÚ[\[Y[ZH™\›Y\ˆ[™HÜKÛˆZH[ˆİ]œ™H[™H]]™K‚
+---
+title: "Et si on disait moins Â« nonÂ Â» Ã  nos enfants ?"
+seoTitle: "Poser des limites sans dire non : 3 alternatives avec les enfants"
+description: "Trois faÃ§ons de poser une limite sans entrer dans le bras de fer : proposer une alternative, offrir deux choix et prÃ©server lâ€™intention de lâ€™enfant."
+seoDescription: "Comment poser une limite sans entrer dans le bras de fer ? Trois alternatives concrÃ¨tes au Â« nonÂ Â» pour accompagner les enfants au quotidien."
+date: 2026-08-22
+updated: 2026-08-22
+category: "Discipline positive"
+image: "/images/illustration-limites.webp"
+imageAlt: "Un grand frÃ¨re joue avec un chien en peluche devant sa petite sÅ“ur dans un jardin."
+imageWidth: 1600
+imageHeight: 900
+slug: article-limites
+readingTime: "6 min de lecture"
+---
+
+Il y a des moments oÃ¹ lâ€™on sait exactement comment une situation va finir.
+
+Ce jour-lÃ , Gabriel avait ramassÃ© des cailloux dans le jardin. Sa petite sÅ“ur Ã©tait juste Ã  cÃ´tÃ© et je le voyais dÃ©jÃ  venir : lui donner les cailloux, les lui lancer ou, pire encore, les lui mettre dans les mains pour quâ€™elle les porte directement Ã  la bouche.
+
+La rÃ©action la plus naturelle aurait Ã©tÃ© de lui dire non. Mais jâ€™ai essayÃ© autre chose : lui expliquer ce quâ€™il pouvait faire Ã  la place.
+
+<div class="quote-pair"><div class="quote bad"><span>Le rÃ©flexe</span>Â« Gabriel, non ! Ne donne pas les cailloux au bÃ©bÃ© !Â Â»</div><div class="quote good"><span>Jâ€™ai essayÃ© plutÃ´t</span>Â« Si tu veux jouer avec les cailloux, tu peux les lancer dans ce coin, quand il nâ€™y a personne. Et si tu veux jouer avec ta petite sÅ“ur, tu peux aller lui chercher un jouet.Â Â»</div></div>
+
+Gabriel nâ€™a pas discutÃ©. Il est allÃ© chercher son petit jouet en forme de chien et sâ€™est installÃ© Ã  cÃ´tÃ© de sa sÅ“ur pour jouer avec elle.
+
+Et je me suis dit : voilÃ  exactement pourquoi les alternatives fonctionnent si bien avec les tout-petits.
+
+## 1. Dire ce quâ€™ils peuvent faire plutÃ´t que seulement ce quâ€™ils ne peuvent pas faire
+
+Pour un jeune enfant, Â« ne fais pas Ã§aÂ Â» ne donne pas vraiment de solution. Â« Ne lance pas les caillouxÂ Â» lui dit simplement oÃ¹ sâ€™arrÃªte la limite. Â« Tu peux lancer les cailloux dans ce coin, quand personne nâ€™est lÃ Â Â» lui montre ce quâ€™il peut faire.
+
+<div class="callout highlight"><span class="callout-label">Le petit changement</span><strong>La limite est toujours lÃ .</strong> Elle est simplement accompagnÃ©e dâ€™une alternative. Et cela change souvent complÃ¨tement la faÃ§on dont lâ€™enfant la reÃ§oit.</div>
+
+## 2. Donner deux choix acceptables
+
+Les tout-petits ont Ã©normÃ©ment besoin de sentir quâ€™ils ont une certaine maÃ®trise de ce quâ€™ils font. On peut donc proposer deux options qui nous conviennent toutes les deux.
+
+<div class="callout highlight"><span class="callout-label">Deux choix acceptables</span>Â« Tu peux jouer avec les cailloux dans cet endroit ou aller chercher un jouet pour jouer avec ta sÅ“ur.Â Â»</div>
+
+Je ne lui laissais pas le choix de donner les cailloux au bÃ©bÃ©. La limite Ã©tait claire. Mais Ã  lâ€™intÃ©rieur de cette limite, il avait encore une vraie libertÃ© de dÃ©cision.
+
+## 3. Chercher ce que lâ€™enfant essaie rÃ©ellement de faire
+
+DerriÃ¨re un comportement qui nous pose problÃ¨me, il y a souvent une intention parfaitement acceptable. Gabriel ne cherchait probablement pas Ã  mettre sa sÅ“ur en danger. Il voulait jouer. Il avait trouvÃ© quelque chose dâ€™intÃ©ressant et voulait peut-Ãªtre partager son activitÃ© avec elle.
+
+PlutÃ´t que de simplement bloquer son idÃ©e, jâ€™ai essayÃ© de prÃ©server lâ€™intention tout en changeant la maniÃ¨re de faire. Les cailloux ? Non. Jouer avec sa sÅ“ur ? Oui. Alors il lui fallait simplement un autre moyen dâ€™y arriver.
+
+## Le but nâ€™est pas de ne plus jamais dire Â« nonÂ Â»
+
+Bien sÃ»r, il y aura toujours des moments oÃ¹ un Â« nonÂ Â» sera nÃ©cessaire. Certains comportements sont dangereux et ne sont pas nÃ©gociables. Mais toutes les limites nâ€™ont pas besoin de commencer par Â« nonÂ Â».
+
+Et quand la limite dÃ©clenche de la frustration, on peut aussi [accueillir lâ€™Ã©motion avant de revenir Ã  la rÃ¨gle](/article-emotions.html).
+
+Quand câ€™est possible, on peut essayer de transformer Â« Ne fais pas Ã§aÂ Â» en Â« VoilÃ  ce que tu peux faire Ã  la place.Â Â»
+
+Câ€™est une petite diffÃ©rence dans nos mots, mais elle peut avoir une grande diffÃ©rence dans la rÃ©action de lâ€™enfant. Parce quâ€™au lieu de simplement lui fermer une porte, on lui en ouvre une autre.
