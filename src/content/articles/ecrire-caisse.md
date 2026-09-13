@@ -12,13 +12,7 @@ imageWidth: 1600
 imageHeight: 900
 slug: article-ecrire-caisse
 readingTime: "4 min de lecture"
----
-
-PARENTALITÉ
-
-# Quand écrire aide à apaiser une grosse émotion
-
-Parfois, une émotion ne s’apaise pas parce qu’on trouve la bonne explication. Elle s’apaise quand l’enfant sent que son histoire a été entièrement entendue.
+---\nParfois, une émotion ne s’apaise pas parce qu’on trouve la bonne explication. Elle s’apaise quand l’enfant sent que son histoire a été entièrement entendue.
 
 ## Une crise à la caisse
 
@@ -30,7 +24,7 @@ La crise a commencé pendant que nous payions. Elle a continué jusque dans la r
 
 J’ai commencé par mes outils habituels. J’ai reconnu ce qu’il ressentait :
 
-« Tu es frustré et très contrarié. Je comprends. Tu voulais vraiment passer par la première caisse. »
+<div class="callout">« Tu es frustré et très contrarié. Je comprends. Tu voulais vraiment passer par la première caisse. »</div>
 
 J’ai essayé quelques autres choses qui fonctionnent parfois. Mais rien ne semblait l’aider à redescendre.
 
@@ -38,17 +32,17 @@ Puis j’ai eu une idée.
 
 J’ai sorti mon téléphone, ouvert une note vierge et demandé :
 
-« Tu veux que j’écrive tout ? »
+<div class="callout">« Tu veux que j’écrive tout ? »</div>
 
 Il a répondu par un petit « oui » timide.
 
 J’ai alors commencé à écrire, tout en lisant les phrases à voix haute :
 
-« Aujourd’hui, nous sommes passés par la deuxième caisse. Gabriel voulait aller à la première caisse, mais elle était fermée. Gabriel n’a pas aimé ça. La prochaine fois, il aimerait passer par la première caisse. »
+<div class="callout">« Aujourd’hui, nous sommes passés par la deuxième caisse. Gabriel voulait aller à la première caisse, mais elle était fermée. Gabriel n’a pas aimé ça. La prochaine fois, il aimerait passer par la première caisse. »</div>
 
 Nous avons même ajouté une phrase un peu moins raisonnable :
 
-« Gabriel veut casser la deuxième caisse. »
+<div class="callout">« Gabriel veut casser la deuxième caisse. »</div>
 
 À ce moment-là, il avait complètement arrêté de pleurer. Il écoutait attentivement.
 
@@ -70,7 +64,7 @@ Surtout, Gabriel a senti que ce moment comptait. Son expérience avait été vue
 
 Cette idée ne fonctionnera pas forcément à chaque fois. Mais lorsque les mots sont difficiles à trouver, on peut proposer d’écrire sans imposer :
 
-« Tu veux que je note ce qui s’est passé ? »
+<div class="callout">« Tu veux que je note ce qui s’est passé ? »</div>
 
 Il n’est pas nécessaire d’écrire beaucoup. Quelques phrases simples suffisent : ce qui s’est passé, ce que l’enfant voulait, ce qu’il a ressenti et ce qu’il aimerait pour la prochaine fois.
 
