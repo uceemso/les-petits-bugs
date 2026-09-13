@@ -13,7 +13,18 @@ for (const file of files) {
   if (!frontmatterMatch) continue;
 
   const head = frontmatterMatch[0];
+  const titleMatch = head.match(/^title:\s*"([^"]+)"/m);
+  const title = titleMatch?.[1];
   let body = original.slice(head.length);
+
+  // Remove legacy category and duplicate H1 lines from article bodies.
+  body = body.replace(/^\s*PARENTALITÉ\s*\n+/, '');
+  if (title) {
+    const escapedTitle = title.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\  const head = frontmatterMatch[0];
+  let body = original.slice(head.length);
+');
+    body = body.replace(new RegExp(`^\\s*#\\s+${escapedTitle}\\s*\\n+`), '\\n');
+  }
 
   // Markdown blockquotes become the site's neutral callout style.
   body = body.replace(
@@ -26,6 +37,9 @@ for (const file of files) {
     /(^|\n)([ \t]*)(«[^\n<>]+»)[ \t]*(?=\n|$)/g,
     (_match, prefix, _spaces, quote) => `${prefix}<div class="callout">${quote}</div>`
   );
+
+  // Keep closing French guillemets attached to the preceding text on mobile.
+  body = body.replaceAll(' »', '\u00a0»');
 
   // Normalize excessive blank lines without changing paragraph structure.
   body = body.replace(/\n{4,}/g, '\n\n\n');
