@@ -1,13 +1,67 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×¹N‹Z–‹­¦ëeŠw¬Ô´´´)Ñ¥Ñ±”è€‰EÕ…¹±•Ìµ½ÑÌ¹”Ù¥•¹¹•¹ĞÁ…Ì°ƒ¥É¥Ù½¹Ìµ±•Ìˆ)Í•½Q¥Ñ±”è€‰¥‘•ÈÕ¸•¹™…¹Ğƒ€•áÁÉ¥µ•ÈÍ•Ìƒ¥µ½Ñ¥½¹Ì•¸ƒ¥É¥Ù…¹Ğˆ)‘•ÍÉ¥ÁÑ¥½¸è€‰EÕ…¹Õ¸•¹™…¹Ğ»Še•ÍĞÁ…ÌÁË©Ğƒ€Á…É±•È‘””Å×Še¥°É•ÍÍ•¹Ğ°ƒ¥É¥É”°‘•ÍÍ¥¹•È½Ô™…¥É”Õ¹”±¥ÍÑ”Á•ÕĞË¥•ÈÕ¸¡•µ¥¸Ù•ÉÌ±„½µÁË¥¡•¹Í¥½¸¸ˆ)Í•½•ÍÉ¥ÁÑ¥½¸è€‰U¸•¹™…¹Ğ»Še•ÍĞÁ…ÌÁË©Ğƒ€Á…É±•È‘””Å×Še¥°É•ÍÍ•¹Ğ€üƒ%É¥É”°‘•ÍÍ¥¹•È½Ô™…¥É”Õ¹”±¥ÍÑ”Á•ÕĞ³Še…¥‘•Èƒ€“¥Á½Í•ÈÍ½¸ƒ¥µ½Ñ¥½¸•Ğƒ€•¸Á…É±•ÈÁ±ÕÌÑ…É¸ˆ)‘…Ñ”è€ÈÀÈØ´ÀØ´Äà)ÕÁ‘…Ñ•è€ÈÀÈØ´ÀØ´Äà)…Ñ•½Éäè€‹%µ½Ñ¥½¹Ìˆ)¥µ…”è€ˆ½¥µ…•Ì½…ÉÑ¥±•Ì½…ÉÑ¥±”´ÀÄµ•É¥É”µ•µ½Ñ¥½¹Ì¹İ•‰Àˆ)¥µ…•±Ğè€‰U¸•¹™…¹Ğ•ĞÕ¸…‘Õ±Ñ”ÑÉ…¹Í™½Éµ•¹ĞÕ¸É¥‰½Õ¥±±¥Ì•¸‘•ÍÍ¥¸ÍÕÈÕ¹”™•Õ¥±±”¸ˆ)¥µ…•]¥‘Ñ è€ÄØÀÀ)¥µ…•!•¥¡Ğè€äÀÀ)Í±Õœè…ÉÑ¥±”µ•É¥É”µ•µ½Ñ¥½¹Ì)É•…‘¥¹Q¥µ”è€ˆĞµ¥¸‘”±•ÑÕÉ”ˆ(´´´()A…É™½¥Ì°½¸Ù½¥Ğ‰¥•¸ÅÕ”ÅÕ•±ÅÕ”¡½Í”¹”Ù„Á…Ì¸9½ÑÉ”•¹™…¹Ğ•ÍĞ½¹ÑÉ…É§¤°Ñ•¹‘Ô½Ô…Ô‰½É‘•Ì±…Éµ•Ì°µ…¥Ì“¡ÌÅ×Še½¸±Õ¤‘•µ…¹‘””ÅÕ¤Í”Á…ÍÍ”°¥°Í”™•Éµ”¸()%°Ë¥Á½¹ƒ
-¬É¥•»
-ƒ
-ì°“¥Ñ½ÕÉ¹”±”É•…É½ÔÏŠg¥¹•ÉÙ”•¹½É”‘…Ù…¹Ñ…”¸”Í¥±•¹”¹”Ù•ÕĞÁ…Ì™½É¥µ•¹Ğ‘¥É”Å×Še¥°É•™ÕÍ”‘”¹½ÕÌÁ…É±•È¸%°Á•ÕĞÍ¥µÁ±•µ•¹Ğ¹”Á…ÌÍ…Ù½¥È½µµ•¹ĞÑÉ…¹Í™½Éµ•È”Å×Še¥°É•ÍÍ•¹Ğ•¸µ½ÑÌ¸((¨©9”Á…Ìƒ©ÑÉ”ÁË©Ğƒ€Á…É±•È¹”Í¥¹¥™¥”Á…ÌÅÕ”³Šg¥µ½Ñ¥½¸‘½¥Ğƒ©ÑÉ”¥¹½Ë¥”¸¨¨((ŒŒEÕ…¹±•ÌÅÕ•ÍÑ¥½¹Ì…©½ÕÑ•¹Ğ‘”±„ÁÉ•ÍÍ¥½¸()EÕ…¹¹½ÑÉ”•¹™…¹ĞÙ„µ…°°¹½ÕÌÙ½Õ±½¹Ì¹…ÑÕÉ•±±•µ•¹Ğ½µÁÉ•¹‘É”¸±½ÉÌ¹½ÕÌ‘•µ…¹‘½¹Ì€èƒ
-¬E×Še•ÍĞµ”Å×Še¥°ä„€ÿ
-ƒ
-ì°ƒ
-¬A½ÕÉÅÕ½¤ÑÔÁ±•ÕÉ•Ì€ÿ
-ƒ
-ì°ƒ
-¬E×Še•ÍĞµ”ÅÕ¤ÏŠe•ÍĞÁ‡¹¶‰Ëkºwµç[œÈH[™HXÙHXÚK°¨0®ÏÜ‚‚Ù]H˜péÛÛˆH˜Z\™H\HHpê›YHY0êYH]YHÜ™XÛÛ›˜pë™H8 &pê[[İ[Ûˆ]˜[HÚ\˜Ú\ˆ0èHÛÜœšYÙ\—JØ\XÛKY[[İ[ÛœËš[
-Hˆ8 &Y[™˜[¸ &XH\È™\ÛÚ[ˆ]YHÛÛˆ™\ÜÙ[H\Ü\˜Z\ÜÙHİ\ˆ]YH›İ\ÈZ\ÜÚ[ÛœÈ8 &XXØÛÛ\YÛ™\‹‚‚•[™H\İHHÛİZZ]ÈXØİYZ[H[™H[šYHØ[œÈ›ÛY]™HH8 &Y^]XÙ\‹ˆ[ˆ\ÜÚ[ˆXØİYZ[H[™HÛÛ0ê™HØ[œÈ]]Üš\Ù\ˆ\ÈÛİ\Ëˆ]Y[]Y\È[İÈİ\ˆ[™H™]Z[H™XÛÛ›˜Z\ÜÙ[[™H0êXÙ\[ÛˆØ[œÈ]›Ú\ˆ™\ÛÚ[ˆHH˜Z\™H\Ü\˜pë™K‚‚”]X[™[ø &XYÚ]İ\İ]HÜÙ\ˆ[™H[Z]KÜ›ÜÜÙ\ˆ[™H[\›˜]]™HÛÛ˜Ü°êH]0í]x &][ˆÚ[\H0ªÈ›Û°¨0®×JØ\XÛK[[Z]\Ëš[
-H]]]\ÜÚHZY\ˆ8 &Y[™˜[0èØ]›Ú\ˆ][ÚH˜Z\™H0èHXÙK‚‚ˆÈÈÜ°êY\ˆH8 &Y\ÜXÙHİ\ˆ\›\ˆ\È\™‚°âXÜš\™H™H™[\XÙH\ÈHÛÛ™\œØ][Û‹ˆÙ[HÜ°êYHH8 &Y\ÜXÙHİ\ˆ]x &Y[HZ\ÜÙH]›Ú\ˆY]H]X[™8 &Y[™˜[Ù\˜H°ê‚‚Ù\Z[œÈ[™˜[È›İY›Û™[\™HH™]Z[H]Y[]Y\ÈZ[]\È\È\™ˆ8 &X]]™\È™]šY[™›Û\Üİ\ÈHÛÚ\ˆİHH[™[XZ[‹ˆ8 &X]]™\È[˜ÛÜ™H¸ &Y[ˆ\›\›Û\ÈHİ]XZ\È]\›Ûİ]Hpê›YHÙ[H]YH]\ˆ^0ê\šY[˜ÙHH0ê]0êHš\ÙH]Hğê\šY]^‚‚]ˆÛ\ÜÏH™^[\K[\İ°ªÈ™H]^8 &pêXÜš\™Hİ\ˆÚK°¨0®ÏÜ°ªÈÛˆHY]İ\ˆH\İHİ\ˆ™H\È8 &[İX›Y\‹°¨0®ÏÜ°ªÈH]^YH[Û™\ˆ]™XÈ[ˆ\ÜÚ[‹°¨0®ÏÜÙ]‚‚•İ]¸ &XH\È™\ÛÚ[ˆ8 &pê™HÛÛ\š\È]°ê\\°êH[œÈ8 &Z[œİ[ˆ\™›Ú\Ë[™H0ê[[İ[ÛˆHÚ[\[Y[™\ÛÚ[ˆ8 &pê™H0ê\ÜğêYH]Y[]YH\]˜[Hİ]›Ú\ˆ0ê™H˜XÛÛ0êYK‚
+---
+title: "Quand les mots ne viennent pas, Ã©crivons-les"
+seoTitle: "Aider un enfant Ã  exprimer ses Ã©motions en Ã©crivant"
+description: "Quand un enfant nâ€™est pas prÃªt Ã  parler de ce quâ€™il ressent, Ã©crire, dessiner ou faire une liste peut crÃ©er un chemin vers la comprÃ©hension."
+seoDescription: "Un enfant nâ€™est pas prÃªt Ã  parler de ce quâ€™il ressent ? Ã‰crire, dessiner ou faire une liste peut lâ€™aider Ã  dÃ©poser son Ã©motion et Ã  en parler plus tard."
+date: 2026-06-18
+updated: 2026-06-18
+category: "Ã‰motions"
+image: "/images/illustration-ecrire-emotions-topdown.webp"
+imageAlt: "Un enfant et un adulte transforment un gribouillis en dessin sur une feuille."
+imageWidth: 1600
+imageHeight: 900
+slug: article-ecrire-emotions
+readingTime: "4 min de lecture"
+---
+
+Parfois, on voit bien que quelque chose ne va pas. Notre enfant est contrariÃ©, tendu ou au bord des larmes, mais dÃ¨s quâ€™on lui demande ce qui se passe, il se ferme.
+
+Il rÃ©pond Â« rienÂ Â», dÃ©tourne le regard ou sâ€™Ã©nerve encore davantage. Ce silence ne veut pas forcÃ©ment dire quâ€™il refuse de nous parler. Il peut simplement ne pas savoir comment transformer ce quâ€™il ressent en mots.
+
+**Ne pas Ãªtre prÃªt Ã  parler ne signifie pas que lâ€™Ã©motion doit Ãªtre ignorÃ©e.**
+
+## Quand les questions ajoutent de la pression
+
+Quand notre enfant va mal, nous voulons naturellement comprendre. Alors nous demandons : Â« Quâ€™est-ce quâ€™il y a ?Â Â», Â« Pourquoi tu pleures ?Â Â», Â« Quâ€™est-ce qui sâ€™est passÃ© ?Â Â»
+
+Mais au cÅ“ur dâ€™une grosse Ã©motion, rÃ©pondre peut sembler impossible. Lâ€™enfant doit Ã  la fois comprendre ce qui se passe en lui, trouver les mots et supporter notre attente. MÃªme une question pleine de douceur peut alors ressembler Ã  une pression supplÃ©mentaire.
+
+PlutÃ´t que dâ€™insister, on peut proposer un autre chemin.
+
+<div class="callout highlight"><span class="callout-label">Une phrase Ã  essayer</span>Â« Tu nâ€™as pas besoin de mâ€™expliquer maintenant. Si tu veux, on peut lâ€™Ã©crire ou le dessiner.Â Â»</div>
+
+## Mettre lâ€™Ã©motion Ã  lâ€™extÃ©rieur
+
+Ã‰crire ralentit les choses. Une pensÃ©e qui tournait en boucle dans la tÃªte devient quelque chose que lâ€™on peut regarder ensemble.
+
+On peut Ã©crire :
+
+- Â« Tu voulais vraiment ce jouet. On va le mettre sur ta liste de souhaits.Â Â»
+- Â« Cette journÃ©e Ã©tait difficile. Faisons une petite liste de tout ce qui sâ€™est mal passÃ©.Â Â»
+- Â« Tu as beaucoup de choses dans la tÃªte. Je peux les noter pendant que tu me les dictes.Â Â»
+
+Le problÃ¨me nâ€™est pas forcÃ©ment rÃ©solu. Mais il est devenu visible, plus concret et souvent un peu moins envahissant.
+
+## Pas besoin de savoir Ã©crire
+
+Cette idÃ©e fonctionne aussi avec les tout-petits. Le parent peut tenir le crayon et Ã©crire exactement les mots de lâ€™enfant, sans les corriger ni les reformuler. Lâ€™enfant peut aussi faire un dessin, choisir une couleur ou simplement regarder la liste se construire.
+
+Lâ€™important nâ€™est pas la forme. Câ€™est le message que nous lui envoyons :
+
+<p class="closing-line">Â« Ce que tu ressens a une place ici.Â Â»</p>
+
+Cette faÃ§on de faire part de la mÃªme idÃ©e que [reconnaÃ®tre lâ€™Ã©motion avant de chercher Ã  la corriger](/article-emotions.html) : lâ€™enfant nâ€™a pas besoin que son ressenti disparaisse pour que nous puissions lâ€™accompagner.
+
+Une liste de souhaits accueille une envie sans promettre de lâ€™exaucer. Un dessin accueille une colÃ¨re sans autoriser les coups. Quelques mots sur une feuille reconnaissent une dÃ©ception sans avoir besoin de la faire disparaÃ®tre.
+
+Quand il sâ€™agit surtout de poser une limite, [proposer une alternative concrÃ¨te plutÃ´t quâ€™un simple Â« nonÂ Â»](/article-limites.html) peut aussi aider lâ€™enfant Ã  savoir quoi faire Ã  la place.
+
+## CrÃ©er de lâ€™espace pour parler plus tard
+
+Ã‰crire ne remplace pas la conversation. Cela crÃ©e de lâ€™espace pour quâ€™elle puisse avoir lieu quand lâ€™enfant sera prÃªt.
+
+Certains enfants voudront relire la feuille quelques minutes plus tard. Dâ€™autres reviendront dessus le soir ou le lendemain. Dâ€™autres encore nâ€™en parleront pas du tout, mais auront tout de mÃªme senti que leur expÃ©rience a Ã©tÃ© prise au sÃ©rieux.
+
+<div class="example-list"><p>Â« Je peux lâ€™Ã©crire pour toi.Â Â»</p><p>Â« On le met sur la liste pour ne pas lâ€™oublier.Â Â»</p><p>Â« Tu peux me montrer avec un dessin.Â Â»</p></div>
+
+Tout nâ€™a pas besoin dâ€™Ãªtre compris et rÃ©parÃ© dans lâ€™instant. Parfois, une Ã©motion a simplement besoin dâ€™Ãªtre dÃ©posÃ©e quelque part avant de pouvoir Ãªtre racontÃ©e.
