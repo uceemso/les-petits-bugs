@@ -6,7 +6,7 @@ seoDescription: "Découvrez comment écrire avec un enfant peut aider à apaiser
 date: 2026-09-13
 updated: 2026-09-13
 category: "Parentalité"
-image: "/images/illustration-ecrire-caisse.webp"
+image: "/images/articles/article-07-ecrire-caisse.webp"
 imageAlt: "Une illustration aquarelle abstraite représentant une caisse fermée, des pommes et une émotion qui s’apaise autour d’une note écrite."
 imageWidth: 1600
 imageHeight: 900
