@@ -14,10 +14,13 @@ const search = `${data.title} ${data.description} ${data.category}`.toLowerCase(
       <img src={`${base}${data.image.replace(/^\//, '')}`} alt={data.imageAlt} width={data.imageWidth} height={data.imageHeight} loading={featured ? 'eager' : 'lazy'} />
     </div>
     <div>
-      <span class="cat">{data.category}</span>
+      <div class="card-meta">
+        <span class="cat">{data.category}</span>
+        <time class="date" datetime={data.date.toISOString().slice(0, 10)}>{data.date.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
+      </div>
       <h3>{data.title}</h3>
       <p class="excerpt">{data.description}</p>
-      <span class="date"><time datetime={data.date.toISOString().slice(0, 10)}>{data.date.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' })}</time> · {data.readingTime.replace(' de lecture', '')}</span>
+      <span class="reading-time">{data.readingTime.replace(' de lecture', '')}</span>
     </div>
   </div>
 </a>
