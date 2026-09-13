@@ -6,7 +6,7 @@ Le site est généré par Astro à partir d’articles Markdown et publié gratu
 
 ## Ajouter un nouvel article
 
-Crée un fichier `src/content/articles/mon-article.md`, puis ajoute son illustration dans `public/images/`.
+Crée le prochain fichier numéroté dans `src/content/articles/`, par exemple `article-09-mon-sujet.md`, puis ajoute son illustration associée dans `public/images/articles/`, par exemple `article-09-mon-sujet.webp`.
 
 ```yaml
 ---
@@ -15,7 +15,7 @@ description: "Une description courte et fidèle."
 date: 2026-09-15
 updated: 2026-09-15
 category: "Émotions"
-image: "/images/mon-illustration.jpg"
+image: "/images/articles/article-09-mon-sujet.webp"
 imageAlt: "Description accessible de l’image."
 slug: mon-article
 readingTime: "5 min de lecture"
@@ -40,6 +40,6 @@ src/
 ├── pages/                  → accueil, À propos, articles, sitemap, robots
 └── styles/global.css       → identité visuelle existante
 public/
-├── images/                 → illustrations
+├── images/articles/        → illustrations des articles
 └── logos/                  → logo et icônes
 ```
