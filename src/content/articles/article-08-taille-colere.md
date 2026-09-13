@@ -1,4 +1,97 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×OtN‹Z–‹­¦ëeŠw¬Ô´´´)Ñ¥Ñ±”è€‰+Še…¤‘•µ…¹“¤ƒ€µ½¸™¥±Ì‘”µ”µ½¹ÑÉ•È±„Ñ…¥±±”‘”Í„½³¡É”ˆ)Í•½Q¥Ñ±”è€‰¥‘•ÈÕ¸•¹™…¹Ğƒ€•áÁÉ¥µ•ÈÕ¹”É½ÍÍ”½³¡É”ˆ)‘•ÍÉ¥ÁÑ¥½¸è€‰EÕ…¹±•Ìµ½ÑÌ¹”ÍÕ™™¥Í•¹ĞÁ…Ì°µ½¹ÑÉ•È±„Ñ…¥±±”‘”Í„½³¡É”…Ù•Œ”ÅÕ¤¹½ÕÌ•¹Ñ½ÕÉ”Á•ÕĞ…¥‘•ÈÕ¸•¹™…¹Ğƒ€ÑÉ…Ù•ÉÍ•ÈÕ¹”É½ÍÍ”ƒ¥µ½Ñ¥½¸¸ˆ)Í•½•ÍÉ¥ÁÑ¥½¸è€‰¥½ÕÙÉ•èÕ¹”¥“¥”Í¥µÁ±”Á½ÕÈ…¥‘•ÈÕ¸•¹™…¹Ğƒ€•áÁÉ¥µ•ÈÕ¹”É½ÍÍ”½³¡É”€èÕÑ¥±¥Í•È±•Ìƒ¥³¥µ•¹ÑÌÑÉ½ÕÛ¥Ì…ÕÑ½ÕÈ‘”Í½¤Á½ÕÈÉ•¹‘É”Í½¸ƒ¥µ½Ñ¥½¸Ù¥Í¥‰±”¸ˆ)‘…Ñ”è€ÈÀÈØ´Àä´ÄÌ)ÕÁ‘…Ñ•è€ÈÀÈØ´Àä´ÄÌ)…Ñ•½Éäè€‹%µ½Ñ¥½¹Ìˆ)¥µ…”è€ˆ½¥µ…•Ì½…ÉÑ¥±•Ì½…ÉÑ¥±”´ÀàµÑ…¥±±”µ½±•É”¹İ•‰Àˆ)¥µ…•±Ğè€‰…‰É¥•°±…¹”Õ¸‹‰Ñ½¸Á½ÕÈ•áÁÉ¥µ•È³Še…µÁ±•ÕÈ‘”Í„½³¡É”Á•¹‘…¹ĞÕ¹”ÁÉ½µ•¹…‘”…Ù•ŒÍ„·¡É”•Ğ±•ÕÈ¡ÕÍ­äM¡…‘½Ü¸ˆ)¥µ…•]¥‘Ñ è€ÄØÀÀ)¥µ…•!•¥¡Ğè€äÀÀ)Í±Õœè…ÉÑ¥±”µÑ…¥±±”µ½±•É”)É•…‘¥¹Q¥µ”è€ˆÌµ¥¸‘”±•ÑÕÉ”ˆ(´´´()A…É™½¥Ì°±•Ìµ•¥±±•ÕÉÌ½ÕÑ¥±ÌÁ½ÕÈ…½µÁ…¹•ÈÕ¹”É½ÍÍ”ƒ¥µ½Ñ¥½¸¹”Ù¥•¹¹•¹ĞÁ…Ì“ŠeÕ¸±¥ÙÉ”½Ô“ŠeÕ¹”‰¿¹Ñ”ƒ€ƒ¥µ½Ñ¥½¹Ì¸()%±ÌÍ½¹Ğ©ÕÍÑ”³€°Á…ÈÑ•ÉÉ”¸()9½ÕÌƒ¥Ñ¥½¹Ì•¸ÁÉ½µ•¹…‘”•¸™…µ¥±±”…Ù•ŒM¡…‘½Ü°¹½ÑÉ”¡ÕÍ­ä¸…‰É¥•°·Še„‘•µ…¹“¤ÏŠe¥°Á½ÕÙ…¥ĞÑ•¹¥ÈÍ„±…¥ÍÍ”¸()1”ÁÉ½‰³¡µ”°Še•ÍĞÅÕ”M¡…‘½ÜÃ¡Í”Á±ÕÌ‘”‘•Õà™½¥ÌÍ½¸Á½¥‘Ì•ĞÅ×Še¥°Á•ÕĞË¥…¥È±½ÉÍÅ×Še¥°É½¥Í”•ÉÑ…¥¹Ì¡¥•¹Ì¸()+Še…¤‘½¹Œ“ì±Õ¤‘¥É”¹½¸¸()…‰É¥•°ƒ¥Ñ…¥ĞÑË¡Ì“§Ô¸())”±Õ¤…¤‘¥Ğ€è((ñ‘¥Ø±…ÍÌô‰…±±½ÕĞˆû
-¬QÔ•ÌÙÉ…¥µ•¹Ğ½¹ÑÉ…É§¤¸)”½µÁÉ•¹‘Ì¸5½¤…ÕÍÍ¤°©”Í•É…¥Ì½¹ÑÉ…É§¥”»
-ƒ
-ìğ½‘¥Øø()5…¥ÌÁ…É™½¥Ì°É•½¹¹‡¹ÑÉ”Õ¹”ƒ¥µ½Ñ¥½¸¹”ÍÕ™™¥ĞÁ…Ìƒ€±„™…¥É”É•‘•Í•¹‘É—İ-¢G§²ÚîÆ­yÖ6ÆÆ÷WB#ì*²ÇW2w&æFRì*+³ÂöF—cà ¤®(	–Vâ’&Ö7<:’VâWG&RÂVâWRÇW2w&÷2à £ÆF—b6Æ73Ò&6ÆÆ÷WB#ì*²6öÖÖR:vü*+³ÂöF—cà £ÆF—b6Æ73Ò&6ÆÆ÷WB#ì*²Væ6÷&RÇW2w&æFRì*+³ÂöF—cà ¬86RÖöÖVçBÖÌ:Â–ÂæRÆWW&—BL:–¬:&W7VRÇW2à ¤Æ÷'2®(	–’G&÷Wl:’Vâ:–æ÷&ÖR,:'Föâà £ÆF—b6Æ73Ò&6ÆÆ÷WB#ì*²W76’w&æFRVR:vü*+³ÂöF—cà ¤6WGFRfö—2Âv'&–VÂ6÷W&’à £ÆF—b6Æ73Ò&6ÆÆ÷WB#ì*²÷V’*+³ÂöF—cà ¤¦RÇV’’FVÖæL:’>(	––Âf÷VÆ—BÆRÆæ6W"à ¬8—f–FVÖÖVçB^(	––Âf÷VÆ—BÆRÆæ6W"à ¤–ÂÎ(	–¦WL:’à ¥V—2–ÂW,:wRVâ&'&RFöÖ,:’VâWRÇW2Æö–âà £ÆF—b6Æ73Ò&6ÆÆ÷WB#ì*²¦RWW‚ÖöçFW"FW77W2ü*+³ÂöF—cà ¤WBVVÇVW26V6öæFW2ÇW2F&BÂ–Â:—F—B'F’W66ÆFW"6öâ&'&Rà ¤ÆFV×:§FR:—F—B7<:–Rà ¢22&VæG&Rf—6–&ÆR6R^(	–öâ&W76Vç@ ¤¦Rî(	–f—2&–Vâ,:—,:’à ¤®(	–’6–×ÆVÖVçBWF–Æ—<:’6RV’6RG&÷Wf—BWF÷W"FRæ÷W2÷W"FöææW"VæRf÷&ÖR:VVÇVR6†÷6RV’Â÷W"ÇV’Â:—F—B–ÖÖVç6RÖ—2–çf—6–&ÆRà ¤RÆ–WRN(	œ:§G&RVæ—VVÖVçBFç26öâ:–Ö÷F–öâÂv'&–VÂ÷Wf—B6öÖÖVæ6W":Æ&Vv&FW"à ¬8ÖRÖöçG&W"6F–ÆÆRà ¥V—2ÂÆ—GL:—&ÆVÖVçBÂ:ÆÆæ6W"à ¤ÆR*²æöì*+²î(	–26†æ|:’â–Âî(	–f–æÆVÖVçB2FVçRÆÆ—76RFR6†F÷rà ¤Ö—26öâ:–Ö÷F–öâf—BG&÷Wl:’VæRf:vöâFR6÷'F—"à ¤ÆW2VæfçG2î(	–öçB2F÷V¦÷W'2&W6ö–âVRæ÷W2,:—&–öç26R^(	––Ç2&W76VçFVçBà ¥&fö—2Â–Ç2öçB7W'F÷WB&W6ö–âVRæ÷W2ÆW2–F–öç2:ÆRÖöçG&W"Â:ÆR&VæG&Rf—6–&ÆRWB:ÆRG&fW'6W"à ¤WB&fö—2ÂÎ(	–÷WF–ÂFöçBöâ&W6ö–âW7BL:–¬:§W7FR:æ÷2–VG2à 
+---
+title: "Jâ€™ai demandÃ© Ã  mon fils de me montrer la taille de sa colÃ¨re"
+seoTitle: "Aider un enfant Ã  exprimer une grosse colÃ¨re"
+description: "Quand les mots ne suffisent pas, montrer la taille de sa colÃ¨re avec ce qui nous entoure peut aider un enfant Ã  traverser une grosse Ã©motion."
+seoDescription: "DÃ©couvrez une idÃ©e simple pour aider un enfant Ã  exprimer une grosse colÃ¨re : utiliser les Ã©lÃ©ments trouvÃ©s autour de soi pour rendre son Ã©motion visible."
+date: 2026-09-13
+updated: 2026-09-13
+category: "Ã‰motions"
+image: "/images/illustration-colere-taille.webp"
+imageAlt: "Gabriel lance un bÃ¢ton pour exprimer lâ€™ampleur de sa colÃ¨re pendant une promenade avec sa mÃ¨re et leur husky Shadow."
+imageWidth: 1600
+imageHeight: 900
+slug: article-taille-colere
+readingTime: "3 min de lecture"
+---
+
+Parfois, les meilleurs outils pour accompagner une grosse Ã©motion ne viennent pas dâ€™un livre ou dâ€™une boÃ®te Ã  Ã©motions.
+
+Ils sont juste lÃ , par terre.
+
+Nous Ã©tions en promenade en famille avec Shadow, notre husky. Gabriel mâ€™a demandÃ© sâ€™il pouvait tenir sa laisse.
+
+Le problÃ¨me, câ€™est que Shadow pÃ¨se plus de deux fois son poids et quâ€™il peut rÃ©agir lorsquâ€™il croise certains chiens.
+
+Jâ€™ai donc dÃ» lui dire non.
+
+Gabriel Ã©tait trÃ¨s dÃ©Ã§u.
+
+Je lui ai dit :
+
+<div class="callout">Â« Tu es vraiment contrariÃ©. Je comprends. Moi aussi, je serais contrariÃ©e. Â»</div>
+
+Mais parfois, reconnaÃ®tre une Ã©motion ne suffit pas Ã  la faire redescendre.
+
+Et la sienne continuait de grandir.
+
+<div class="callout">Â« Grande comment ? Â»</div>
+
+Jâ€™ai ramassÃ© un minuscule morceau de bois qui se trouvait par terre.
+
+Je lui ai demandÃ© :
+
+<div class="callout">Â« Ton Ã©motion est grande comme Ã§a ? Â»</div>
+
+<div class="callout">Â« Plus grande. Â»</div>
+
+Jâ€™en ai ramassÃ© un autre, un peu plus gros.
+
+<div class="callout">Â« Comme Ã§a ? Â»</div>
+
+<div class="callout">Â« Encore plus grande. Â»</div>
+
+Ã€ ce moment-lÃ , il ne pleurait dÃ©jÃ  presque plus.
+
+Alors jâ€™ai trouvÃ© un Ã©norme bÃ¢ton.
+
+<div class="callout">Â« Aussi grande que Ã§a ? Â»</div>
+
+Cette fois, Gabriel a souri.
+
+<div class="callout">Â« Oui ! Â»</div>
+
+Je lui ai demandÃ© sâ€™il voulait le lancer.
+
+Ã‰videmment quâ€™il voulait le lancer.
+
+Il lâ€™a jetÃ©.
+
+Puis il a aperÃ§u un arbre tombÃ© un peu plus loin.
+
+<div class="callout">Â« Je peux monter dessus ? Â»</div>
+
+Et quelques secondes plus tard, il Ã©tait parti escalader son arbre.
+
+La tempÃªte Ã©tait passÃ©e.
+
+## Rendre visible ce quâ€™on ressent
+
+Je nâ€™avais rien prÃ©parÃ©.
+
+Jâ€™ai simplement utilisÃ© ce qui se trouvait autour de nous pour donner une forme Ã  quelque chose qui, pour lui, Ã©tait immense mais invisible.
+
+Au lieu dâ€™Ãªtre uniquement dans son Ã©motion, Gabriel pouvait commencer Ã  la regarder.
+
+Ã€ me montrer sa taille.
+
+Puis, littÃ©ralement, Ã  la lancer.
+
+Le Â« non Â» nâ€™a pas changÃ©. Il nâ€™a finalement pas tenu la laisse de Shadow.
+
+Mais son Ã©motion avait trouvÃ© une faÃ§on de sortir.
+
+Les enfants nâ€™ont pas toujours besoin que nous rÃ©parions ce quâ€™ils ressentent.
+
+Parfois, ils ont surtout besoin que nous les aidions Ã  le montrer, Ã  le rendre visible et Ã  le traverser.
+
+Et parfois, lâ€™outil dont on a besoin est dÃ©jÃ  juste Ã  nos pieds.
