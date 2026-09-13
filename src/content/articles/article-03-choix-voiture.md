@@ -6,7 +6,7 @@ seoDescription: "Pour éviter le bras de fer au moment de monter en voiture, pro
 date: 2026-07-20
 updated: 2026-07-20
 category: "Coopération"
-image: "/images/illustration-choix-voiture.webp"
+image: "/images/articles/article-03-choix-voiture.webp"
 imageAlt: "Une mère et son fils avancent vers une voiture, l’enfant tenant un dinosaure et faisant un grand pas."
 imageWidth: 1600
 imageHeight: 900
