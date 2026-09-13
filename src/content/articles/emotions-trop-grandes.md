@@ -28,7 +28,7 @@ Et pour lui, ce n'était pas un petit problème.
 
 J'aurais pu lui dire :
 
-> « Ce n'est pas grave, on en achètera d'autres. »
+<div class="callout">« Ce n'est pas grave, on en achètera d'autres. »</div>
 
 C'était vrai. Et parfaitement inutile à ce moment-là.
 
@@ -52,11 +52,11 @@ Les jeunes enfants ne passent pas toujours par les mots pour gérer leurs émoti
 
 Alors parfois, plutôt que de demander encore « Qu'est-ce qui ne va pas ? », on peut proposer :
 
-« Tu veux le dessiner ? »
+<div class="callout">« Tu veux le dessiner ? »</div>
 
-« On déchire du papier ? »
+<div class="callout">« On déchire du papier ? »</div>
 
-« Montre-moi avec tes jouets. »
+<div class="callout">« Montre-moi avec tes jouets. »</div>
 
 ## Le petit bug à retenir
 
