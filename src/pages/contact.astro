@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const canonical = new URL(`${base}contact.html`, Astro.site).href;
+---
+
+<BaseLayout
+  title="Contact — Les Petits Bugs"
+  description="Contacter Marie et Les Petits Bugs pour poser une question, partager une idée ou signaler un petit bug du quotidien."
+  canonical={canonical}
+>
+  <main class="article contact-page">
+    <div class="article-head wrap">
+      <span class="cat">Contact</span>
+      <h1>Une question, une idée ou un petit bug&nbsp;?</h1>
+      <p class="lede">Écrivez-moi. Je vous répondrai dès que possible, entre deux goûters, une histoire et un éventuel bug de chaussettes.</p>
+    </div>
+
+    <div class="article-body">
+      <p>Vous pouvez me contacter directement à cette adresse&nbsp;:</p>
+      <p><a class="btn contact-action" href="mailto:contact@lespetitsbugs.com">contact@lespetitsbugs.com</a></p>
+      <p>Vous pouvez m’écrire pour partager une expérience, poser une question sur un article, proposer un sujet ou simplement dire bonjour.</p>
+      <p>Les messages sont redirigés vers ma boîte e-mail personnelle. Je lis tout, même si je ne réponds pas toujours aussi vite que je le voudrais.</p>
+    </div>
+  </main>
+</BaseLayout>
