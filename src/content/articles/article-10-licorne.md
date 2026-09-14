@@ -5,7 +5,8 @@ description: "Gabriel pleurait dans sa poussette et mes explications ne passaien
 seoDescription: "Quand les explications ne passent plus avec un jeune enfant, le jeu et l’imaginaire peuvent parfois aider à traverser le moment sans changer la limite."
 date: 2026-09-14
 updated: 2026-09-14
-category: "Parentalité"
+category: "Articles"
+tags: ["émotion", "jeu", "imagination"]
 image: "/images/articles/article-10-licorne.webp"
 imageAlt: "Marie pousse la poussette de Gabriel aux côtés d’une licorne imaginaire, avec Angelina dans le porte-bébé."
 imageWidth: 1600
