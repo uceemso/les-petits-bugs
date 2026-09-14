@@ -13,6 +13,14 @@ const allowedClasses = new Set([
   'good',
   'example-list',
   'closing-line',
+  'affiliate-book-box',
+  'affiliate-book-label',
+  'affiliate-book-author',
+  'affiliate-book-note',
+  'affiliate-book-actions',
+  'affiliate-book-button',
+  'affiliate-book-button-secondary',
+  'affiliate-disclosure',
 ]);
 const requiredFrontmatter = [
   'title',
