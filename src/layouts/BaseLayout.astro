@@ -12,9 +12,10 @@ interface Props {
   noindex?: boolean;
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
   bodyClass?: string;
+  activeSection?: 'home' | 'articles' | 'resources' | 'about';
 }
 
-const { title, description, canonical = Astro.url.href, image, type = 'website', noindex = false, jsonLd, bodyClass = '' } = Astro.props;
+const { title, description, canonical = Astro.url.href, image, type = 'website', noindex = false, jsonLd, bodyClass = '', activeSection } = Astro.props;
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 const assetUrl = (path: string) => new URL(`${base}${path.replace(/^\//, '')}`, Astro.site).href;
 const imageUrl = image ? (image.startsWith('http') ? image : assetUrl(image)) : undefined;
@@ -55,7 +56,7 @@ const schemas = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     {schemas.map((schema) => <script type="application/ld+json" set:html={JSON.stringify(schema)} />)}
   </head>
   <body class={bodyClass}>
-    <Header />
+    <Header activeSection={activeSection} />
     <slot />
     <Footer />
   </body>
