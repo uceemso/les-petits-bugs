@@ -5,7 +5,8 @@ description: "Quand les mots ne suffisent pas, montrer la taille de sa colère a
 seoDescription: "Découvrez une idée simple pour aider un enfant à exprimer une grosse colère : utiliser les éléments trouvés autour de soi pour rendre son émotion visible."
 date: 2026-09-13
 updated: 2026-09-13
-category: "Émotions"
+category: "Articles"
+tags: ["émotion", "colère"]
 image: "/images/articles/article-08-taille-colere.webp"
 imageAlt: "Gabriel lance un bâton pour exprimer l’ampleur de sa colère pendant une promenade avec sa mère et leur husky Shadow."
 imageWidth: 1600
