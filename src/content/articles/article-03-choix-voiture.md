@@ -5,7 +5,8 @@ description: "Quand il faut partir mais que notre enfant résiste, deux petits c
 seoDescription: "Pour éviter le bras de fer au moment de monter en voiture, proposer deux petits choix peut aider l’enfant à coopérer sans enlever la limite."
 date: 2026-07-20
 updated: 2026-07-20
-category: "Coopération"
+category: "Articles"
+tags: ["limite"]
 image: "/images/articles/article-03-choix-voiture.webp"
 imageAlt: "Une mère et son fils avancent vers une voiture, l’enfant tenant un dinosaure et faisant un grand pas."
 imageWidth: 1600
