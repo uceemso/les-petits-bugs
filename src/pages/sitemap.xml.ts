@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
+import { tagDefinitions } from '../lib/tags';
 
 export const GET: APIRoute = async ({ site }) => {
   const articles = await getCollection('articles', ({ data }) => !data.draft);
@@ -7,7 +8,10 @@ export const GET: APIRoute = async ({ site }) => {
   const base = new URL(projectBase, site).href.replace(/\/$/, '');
   const urls = [
     `${base}/`,
+    `${base}/articles.html`,
+    `${base}/livres-ressources.html`,
     `${base}/a-propos.html`,
+    ...tagDefinitions.map((tag) => `${base}/tag/${tag.slug}.html`),
     ...articles.map((article) => `${base}/${article.data.slug}.html`)
   ];
   const body = urls.map((url) => {
