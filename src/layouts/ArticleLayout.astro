@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import { render } from 'astro:content';
 import ArticleCard from '../components/ArticleCard.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
+import ShareButton from '../components/ShareButton.astro';
 import { getTagDefinition } from '../lib/tags';
 
 interface Props { article: CollectionEntry<'articles'>; related: CollectionEntry<'articles'>[]; }
@@ -13,6 +14,7 @@ const { Content } = await render(article);
 const isResource = data.category === 'Livres & ressources';
 const backHref = isResource ? `${base}livres-ressources.html` : `${base}articles.html`;
 const backLabel = isResource ? '← Retour aux livres & ressources' : '← Retour aux articles';
+const shareUrl = new URL(`${base}${data.slug}.html`, Astro.site).href;
 ---
 <article class="article">
   <div class="article-hero wrap">
@@ -30,6 +32,7 @@ const backLabel = isResource ? '← Retour aux livres & ressources' : '← Retou
       })}
     </div>
     <p class="meta-line">Par <a href={`${base}a-propos.html`} class="author-link">Marie</a> · <time datetime={data.date.toISOString().slice(0, 10)}>{data.date.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' })}</time> · {data.readingTime}</p>
+    <ShareButton title={data.title} description={data.description} url={shareUrl} />
   </div>
   <div class="article-body"><Content /></div>
   <NewsletterSignup />
