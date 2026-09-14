@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const resources = (await getCollection('articles', ({ data }) => !data.draft && data.category === 'Livres & ressources')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const bookArticle = resources.find((article) => article.data.slug === 'article-livre-coleres');
+const canonical = new URL(`${base}livres-ressources.html`, Astro.site).href;
+---
+<BaseLayout title="Livres & ressources | Les Petits Bugs" description="Les livres et ressources qui m’ont réellement aidée, avec des retours concrets sur ce que j’en ai retenu dans notre quotidien." canonical={canonical} activeSection="resources">
+  <section class="listing-page">
+    <div class="wrap">
+      <div class="page-header">
+        <p class="section-kicker">À garder sous la main</p>
+        <h1>Livres & ressources</h1>
+        <p class="page-intro">Les livres et ressources que j’ai réellement trouvés utiles, avec ce qu’ils ont changé concrètement dans notre quotidien.</p>
+      </div>
+
+      {bookArticle && <section class="resource-feature" aria-labelledby="first-book-title">
+        <p class="resource-label">Premier livre de la bibliothèque</p>
+        <h2 id="first-book-title"><em>Parler pour que les tout-petits écoutent</em></h2>
+        <p>J’ai découvert le livre de Joanna Faber et Julie King quand les grosses colères de Gabriel ont commencé. Ce que j’y ai surtout trouvé, ce sont des outils très concrets pour accueillir les émotions, poser des limites et sortir de certains rapports de force.</p>
+        <p>J’ai raconté ce qu’il m’a apporté, ce qui m’a réellement servi et comment je l’utilise aujourd’hui. L’article contient aussi les liens vers les versions française et anglaise du livre.</p>
+        <a class="btn" href={`${base}${bookArticle.data.slug}.html`}>Lire mon retour sur le livre</a>
+      </section>}
+
+      {resources.length > 0 && <div class="resources-list">
+        <div class="section-head"><h2>Tous les livres & ressources</h2><span class="article-count">{resources.length} {resources.length === 1 ? 'ressource' : 'ressources'}</span></div>
+        <div class="mag-grid">
+          {resources.map((article) => <ArticleCard article={article} />)}
+        </div>
+      </div>}
+    </div>
+  </section>
+  <NewsletterSignup />
+</BaseLayout>
