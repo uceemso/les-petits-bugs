@@ -12,18 +12,14 @@ imageAlt: "Illustration abstraite à l’aquarelle représentant le passage d’
 imageWidth: 1600
 imageHeight: 900
 slug: article-livre-coleres
-readingTime: "6 min de lecture"
+readingTime: "3 min de lecture"
 ---
 
-Quand Gabriel a eu trois ans, quelque chose a changé.
+Quand Gabriel a eu trois ans, quelque chose a changé. Les frustrations sont devenues plus fortes, les oppositions plus fréquentes, et certaines colères ont pris une ampleur que je n’avais pas vraiment anticipée.
 
-Les frustrations sont devenues plus fortes. Les oppositions plus fréquentes. Et certaines colères ont pris une ampleur que je n’avais pas vraiment anticipée.
+Parfois, je ne savais tout simplement plus quoi faire.
 
-Il pouvait passer très rapidement d’un petit désaccord à une énorme tempête émotionnelle.
-
-Et moi, parfois, je ne savais tout simplement plus quoi faire.
-
-## Quand les conseils des autres ne fonctionnent pas vraiment
+## Quand les conseils des autres ne m’aidaient plus
 
 Comme beaucoup de parents, j’ai commencé par écouter les conseils autour de moi.
 
@@ -33,153 +29,43 @@ Comme beaucoup de parents, j’ai commencé par écouter les conseils autour de 
 
 <div class="callout">« Ignore-le, il finira bien par arrêter. »</div>
 
-<div class="callout">« S’il fait ça maintenant, imagine plus tard. »</div>
+Beaucoup venaient de parents ou de grands-parents qui avaient élevé leurs enfants avec une vision de l’éducation assez différente de la mienne.
 
-Beaucoup de ces conseils venaient de parents ou de grands-parents qui avaient élevé leurs enfants à une autre époque, avec une vision de l’éducation parfois assez différente de la mienne.
+Certaines idées me mettaient mal à l’aise. Mais quand on est fatigué et qu’on commence à se demander si on fait complètement fausse route, on finit parfois par essayer quand même.
 
-Certaines idées me mettaient mal à l’aise.
+J’en ai testé certaines, sans grande conviction. Elles ne fonctionnaient pas particulièrement bien chez nous et, surtout, elles ne m’aidaient pas à comprendre ce qui se passait derrière le comportement de Gabriel.
 
-Mais quand on est fatigué, qu’on vient de gérer la troisième crise de la journée et qu’on commence à se demander si on fait complètement fausse route, on finit parfois par essayer quand même.
+C’est à ce moment-là que je me suis tournée vers [*Parler pour que les tout-petits écoutent*](https://link.amazon/B0fyWwGXw) (*How to Talk So Little Kids Will Listen*, le titre original en anglais), de Joanna Faber et Julie King.
 
-Alors j’en ai testé certaines, sans grande conviction.
-
-Et, sans grande surprise, elles ne fonctionnaient pas particulièrement bien chez nous.
-
-Surtout, elles ne m’aidaient pas vraiment à comprendre ce qui se passait derrière le comportement de Gabriel.
-
-J’avais besoin d’autre chose.
-
-C’est à ce moment-là que je me suis tournée vers [Parler pour que les tout-petits écoutent](https://link.amazon/B0fyWwGXw) (*How to Talk So Little Kids Will Listen*, le titre original en anglais), de Joanna Faber et Julie King.
-
-## Enfin des outils concrets
+## Enfin des choses concrètes à essayer
 
 Ce que j’ai aimé immédiatement dans ce livre, c’est qu’il ne se contente pas de dire qu’il faut être patient, empathique ou bienveillant.
 
-Parce que, soyons honnêtes, savoir qu’il faudrait rester calme quand son enfant hurle par terre ne nous dit pas vraiment quoi faire.
+Parce que savoir qu’il faudrait rester calme quand son enfant hurle par terre ne nous dit pas forcément quoi faire ensuite.
 
-Le livre propose au contraire des outils très concrets.
+Le livre propose au contraire des outils très concrets : accueillir une émotion, poser une limite sans entrer immédiatement dans un rapport de force, proposer des choix, utiliser le jeu ou l’imaginaire, ou encore décrire un problème plutôt que répéter la même consigne dix fois.
 
-Comment réagir lorsqu’un enfant refuse catégoriquement de faire quelque chose ?
+Ce sont des situations que l’on rencontre constamment avec de jeunes enfants.
 
-Comment poser une limite sans entrer immédiatement dans un rapport de force ?
+J’ai aussi beaucoup aimé sa façon d’être écrit. Quand on est parent, trouver du temps pour lire est déjà compliqué. Ici, les chapitres sont découpés en petites parties faciles à digérer, avec beaucoup d’histoires, de dialogues et d’exemples racontés par différents parents.
 
-Comment accueillir une émotion sans pour autant accepter tous les comportements ?
-
-Comment obtenir un peu plus de coopération dans les petites batailles du quotidien ?
-
-Comment réagir lorsqu’on est pressé et que notre enfant, lui, n’a absolument aucune intention de se dépêcher ?
-
-Ce sont exactement les situations auxquelles on se retrouve confronté avec des enfants de trois, quatre ou cinq ans.
-
-Et surtout, ce sont des situations qui arrivent tous les jours.
-
-## Un livre qu’on peut réellement lire quand on est parent
-
-Il y a aussi quelque chose que j’ai énormément apprécié : ce livre est facile à lire.
-
-Cela peut sembler secondaire, mais quand on a de jeunes enfants, trouver deux heures tranquilles pour lire un livre sur la parentalité relève parfois de la science-fiction.
-
-Ici, les chapitres sont découpés en petites parties faciles à digérer.
-
-On peut en lire quelques pages pendant une sieste, avant de dormir ou entre deux interruptions.
-
-Il n’est pas nécessaire de rester plongé dedans pendant une heure pour en retirer quelque chose.
-
-Et surtout, ce n’est pas un long exposé théorique.
-
-Le livre est rempli de petites histoires, de situations vécues, de dialogues et d’expériences racontées par différents parents.
-
-On reconnaît très vite son propre quotidien.
-
-L’enfant qui ne veut pas mettre ses chaussures.
-
-Celui qui refuse de partir.
-
-La frustration qui explose parce qu’on a dit non.
-
-Les disputes.
-
-Les transitions.
-
-Les repas.
-
-Le coucher.
-
-Toutes ces petites situations qui, prises séparément, semblent insignifiantes mais qui peuvent finir par épuiser toute la famille lorsqu’elles s’enchaînent.
+On peut lire quelques pages et repartir avec une idée concrète à essayer le jour même.
 
 ## Ce que ce livre a changé pour moi
 
-Ce livre ne m’a évidemment pas donné une formule magique pour supprimer les colères.
+Ce livre n’a évidemment pas supprimé les colères de Gabriel.
 
-Gabriel a continué à être frustré.
+Mais il m’a donné davantage de ressources pour y répondre.
 
-Il a continué à dire non.
+J’ai commencé à moins chercher à faire disparaître le comportement immédiatement et davantage à regarder ce qui se passait derrière. À reconnaître l’émotion avant de corriger. À laisser de la place à la frustration tout en maintenant une limite.
 
-Et il a continué à avoir trois ans.
+Et surtout, j’ai compris qu’on pouvait être ferme sans forcément entrer dans un rapport de force.
 
-Mais moi, j’avais davantage d’outils.
+Évidemment, aucun outil ne fonctionne à tous les coups. Parfois un choix fonctionne, parfois non. Parfois le jeu désamorce tout, parfois absolument pas.
 
-Au lieu de chercher uniquement à faire disparaître le comportement, j’ai commencé à regarder ce qui se passait derrière.
+Mais ce livre m’a donné une boîte à outils dans laquelle piocher lorsque je ne sais plus quoi essayer.
 
-J’ai appris à reconnaître l’émotion avant de chercher immédiatement à corriger.
-
-À utiliser le jeu et l’imaginaire lorsque les explications ne fonctionnent plus.
-
-À proposer des choix lorsque c’est possible.
-
-À décrire un problème plutôt que de répéter une consigne dix fois.
-
-À poser une limite tout en laissant de la place à la frustration qu’elle provoque.
-
-Et surtout, j’ai commencé à comprendre qu’on pouvait être ferme sans forcément entrer dans un rapport de force.
-
-Beaucoup des petits outils que j’utilise aujourd’hui avec Gabriel viennent directement ou indirectement de cette façon de voir les choses.
-
-## Tout ne fonctionne pas, et c’est normal
-
-Il y a aussi une chose importante à garder en tête.
-
-Aucun outil ne fonctionne à tous les coups.
-
-Parfois, je propose un choix et Gabriel n’en veut aucun.
-
-Parfois, j’essaie de transformer une situation en jeu et il me regarde comme si mon idée était absolument ridicule.
-
-Parfois, je nomme son émotion et cela ne change rien à l’intensité de la colère.
-
-Et parfois, je suis simplement trop fatiguée pour trouver la phrase parfaite.
-
-Ce livre ne transforme pas la parentalité en une succession de moments parfaitement calmes.
-
-Ce qu’il m’a donné, c’est plutôt une boîte à outils.
-
-Certaines choses fonctionnent aujourd’hui et pas demain. Certaines fonctionnent avec un enfant et moins avec un autre. Et parfois, au milieu d’une situation qui commence à déraper, on se souvient soudain d’une petite idée lue quelques semaines plus tôt.
-
-Et elle aide.
-
-## Le livre que j’aurais aimé lire un peu plus tôt
-
-Avec le recul, Parler pour que les tout-petits écoutent est probablement l’un des livres sur la parentalité qui m’a été le plus utile.
-
-Pas parce qu’il m’a appris comment avoir un enfant qui obéit.
-
-Mais parce qu’il m’a aidée à sortir de cette idée qu’il fallait forcément choisir entre être très autoritaire ou tout laisser passer.
-
-Il existe énormément de choses entre les deux.
-
-On peut poser une limite et reconnaître une émotion.
-
-On peut dire non sans humilier.
-
-On peut demander de la coopération sans transformer chaque désaccord en bataille.
-
-Et on peut aussi se tromper, recommencer et essayer autre chose la prochaine fois.
-
-Quand les grosses colères de trois ans ont commencé, j’avais surtout l’impression de manquer de réponses.
-
-Ce livre ne m’a pas donné toutes les réponses.
-
-Mais il m’a donné quelque chose de beaucoup plus utile : des idées à essayer quand je ne sais plus quoi faire.
+Avec le recul, c’est probablement l’un des livres de parentalité qui m’a le plus aidée, simplement parce qu’il est arrivé à un moment où j’avais vraiment besoin de pistes concrètes.
 
 ## Retrouver le livre
 
