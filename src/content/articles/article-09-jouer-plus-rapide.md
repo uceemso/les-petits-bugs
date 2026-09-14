@@ -5,7 +5,8 @@ description: "Un matin de retard à la crèche, une trottinette transformée en 
 seoDescription: "Quand un enfant est plongé dans son jeu, entrer dans son univers ou le rediriger peut parfois fonctionner mieux que répéter « dépêche-toi »."
 date: 2026-09-13
 updated: 2026-09-13
-category: "Quotidien"
+category: "Articles"
+tags: ["jeu", "imagination"]
 image: "/images/articles/article-09-jouer-plus-rapide-v3.webp"
 imageAlt: "Marie court à côté de Gabriel sur sa trottinette en arrivant devant la crèche."
 imageWidth: 1600
