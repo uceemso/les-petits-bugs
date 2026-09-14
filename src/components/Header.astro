@@ -1,10 +1,16 @@
 ---
+interface Props {
+  activeSection?: 'home' | 'articles' | 'resources' | 'about';
+}
+
+const { activeSection } = Astro.props;
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 const basePath = new URL(import.meta.env.BASE_URL, Astro.site).pathname;
 const pathname = Astro.url.pathname;
-const isHome = pathname === basePath || pathname === `${basePath}index.html`;
-const isAbout = pathname.endsWith('/a-propos.html');
-const isParenting = pathname.includes('article-');
+const isHome = activeSection === 'home' || (!activeSection && (pathname === basePath || pathname === `${basePath}index.html`));
+const isAbout = activeSection === 'about' || (!activeSection && pathname.endsWith('/a-propos.html'));
+const isArticles = activeSection === 'articles' || (!activeSection && pathname.endsWith('/articles.html'));
+const isResources = activeSection === 'resources' || (!activeSection && pathname.endsWith('/livres-ressources.html'));
 ---
 <header class="site">
   <div class="wrap header-inner">
@@ -16,7 +22,8 @@ const isParenting = pathname.includes('article-');
       : <p class="header-intro">Des idées simples pour débugger le quotidien avec nos enfants</p>}
     <nav class="main" aria-label="Navigation principale">
       <a href={base} class:list={{ active: isHome }}>Accueil</a>
-      <a href={`${base}#articles`} class:list={{ active: isParenting }}>Parentalité</a>
+      <a href={`${base}articles.html`} class:list={{ active: isArticles }}>Articles</a>
+      <a href={`${base}livres-ressources.html`} class:list={{ active: isResources }}>Livres & ressources</a>
       <a href={`${base}a-propos.html`} class:list={{ active: isAbout }}>À propos</a>
       <a href={`${base}?recherche=1`} class="nav-search" aria-label="Rechercher">
         <svg width="19" height="19" viewBox="0 0 20 20" fill="none" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.75" stroke="currentColor" stroke-width="1.7"/><path d="M13 13l4.25 4.25" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
