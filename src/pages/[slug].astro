@@ -12,14 +12,21 @@ const { article, articles } = Astro.props;
 const { data } = article;
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 const canonical = new URL(`${base}${data.slug}.html`, Astro.site).href;
-const related = articles.filter((item) => item.id !== article.id && item.data.category === data.category).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 2);
+const related = articles
+  .filter((item) => item.id !== article.id && item.data.category === data.category)
+  .map((item) => ({ item, sharedTags: item.data.tags.filter((tag) => data.tags.includes(tag)).length }))
+  .filter(({ sharedTags }) => sharedTags > 0)
+  .sort((a, b) => b.sharedTags - a.sharedTags || b.item.data.date.valueOf() - a.item.data.date.valueOf())
+  .slice(0, 2)
+  .map(({ item }) => item);
 const jsonLd = {
   '@context': 'https://schema.org', '@type': 'BlogPosting', headline: data.title, description: data.seoDescription ?? data.description,
   image: new URL(`${base}${data.image.replace(/^\//, '')}`, Astro.site).href, datePublished: data.date.toISOString(), dateModified: data.updated.toISOString(),
   author: { '@type': 'Person', name: 'Marie', url: new URL(`${base}a-propos.html`, Astro.site).href }, publisher: { '@type': 'Organization', name: 'Les Petits Bugs', url: new URL(base, Astro.site).href },
-  mainEntityOfPage: { '@type': 'WebPage', '@id': canonical }, inLanguage: 'fr-FR'
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonical }, inLanguage: 'fr-FR', keywords: data.tags.join(', ')
 };
+const activeSection = data.category === 'Livres & ressources' ? 'resources' : 'articles';
 ---
-<BaseLayout title={`${data.seoTitle ?? data.title} | Les Petits Bugs`} description={data.seoDescription ?? data.description} canonical={canonical} image={data.image} type="article" jsonLd={jsonLd}>
+<BaseLayout title={`${data.seoTitle ?? data.title} | Les Petits Bugs`} description={data.seoDescription ?? data.description} canonical={canonical} image={data.image} type="article" jsonLd={jsonLd} activeSection={activeSection}>
   <ArticleLayout article={article} related={related} />
 </BaseLayout>
