@@ -49,7 +49,7 @@ Surtout, elles ne m’aidaient pas vraiment à comprendre ce qui se passait derr
 
 J’avais besoin d’autre chose.
 
-C’est à ce moment-là que je me suis tournée vers Parler pour que les tout-petits écoutent (How to Talk So Little Kids Will Listen), de Joanna Faber et Julie King.
+C’est à ce moment-là que je me suis tournée vers [Parler pour que les tout-petits écoutent](https://link.amazon/B0fyWwGXw) (How to Talk So Little Kids Will Listen), de Joanna Faber et Julie King.
 
 ## Enfin des outils concrets
 
@@ -183,6 +183,14 @@ Mais il m’a donné quelque chose de beaucoup plus utile : des idées à essaye
 
 ## Retrouver le livre
 
-Vous pouvez retrouver le livre en [version française](https://link.amazon/B0fyWwGXw) ou en [version anglaise](https://link.amazon/B06zMary2).
-
-*Ces liens sont affiliés : si vous passez par eux, je peux recevoir une petite commission, sans coût supplémentaire pour vous.*
+<div class="affiliate-book-box">
+  <span class="affiliate-book-label">Le livre dont je parle</span>
+  <h3>Parler pour que les tout-petits écoutent</h3>
+  <p class="affiliate-book-author">Joanna Faber et Julie King</p>
+  <p class="affiliate-book-note">Un des livres qui m’a le plus aidée quand les grosses colères ont commencé.</p>
+  <div class="affiliate-book-actions">
+    <a class="affiliate-book-button" href="https://link.amazon/B0fyWwGXw" rel="sponsored noopener" target="_blank">Voir la version française</a>
+    <a class="affiliate-book-button affiliate-book-button-secondary" href="https://link.amazon/B06zMary2" rel="sponsored noopener" target="_blank">Voir la version anglaise</a>
+  </div>
+  <p class="affiliate-disclosure"><em>Liens affiliés : si vous passez par eux, je peux recevoir une petite commission, sans coût supplémentaire pour vous.</em></p>
+</div>
