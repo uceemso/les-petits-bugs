@@ -38,6 +38,26 @@ Pour un encadré neutre, utiliser simplement :
 <p class="closing-line">« Phrase finale. »</p>
 ```
 
+### Mettre en avant un livre avec des liens affiliés
+
+Pour les articles de la rubrique Livres & ressources, utiliser le même bloc à la fin de l'article afin que les liens soient visibles sans transformer la page en page commerciale.
+
+```html
+<div class="affiliate-book-box">
+  <span class="affiliate-book-label">Le livre dont je parle</span>
+  <h3>Titre du livre</h3>
+  <p class="affiliate-book-author">Auteur ou autrice</p>
+  <p class="affiliate-book-note">Une courte phrase personnelle expliquant pourquoi ce livre est recommandé.</p>
+  <div class="affiliate-book-actions">
+    <a class="affiliate-book-button" href="URL_FR" rel="sponsored noopener" target="_blank">Voir la version française</a>
+    <a class="affiliate-book-button affiliate-book-button-secondary" href="URL_EN" rel="sponsored noopener" target="_blank">Voir la version anglaise</a>
+  </div>
+  <p class="affiliate-disclosure"><em>Liens affiliés : si vous passez par eux, je peux recevoir une petite commission, sans coût supplémentaire pour vous.</em></p>
+</div>
+```
+
+Quand le livre est cité naturellement plus haut dans l'article, sa première mention peut également pointer vers le lien affilié principal. L'encadré final reste le point d'appel principal.
+
 ## Règles
 
 - Ne pas laisser une citation française seule sur une ligne sans bloc visuel.
@@ -45,6 +65,7 @@ Pour un encadré neutre, utiliser simplement :
 - Utiliser `callout highlight` avec parcimonie, pour l'idée importante d'une section.
 - Utiliser `example-list` pour une série de phrases à tester.
 - Utiliser `closing-line` au maximum une fois dans un article.
+- Utiliser `affiliate-book-box` pour les recommandations de livres avec liens affiliés, avec la mention d'affiliation visible dans le bloc.
 - Ne pas ajouter de nouvelles classes visuelles sans mettre à jour le système global.
 
 Le script `scripts/check-article-formatting.mjs` vérifie automatiquement ces règles avant chaque build.
