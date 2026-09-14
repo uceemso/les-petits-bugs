@@ -11,7 +11,7 @@ const articles = defineCollection({
     date: z.coerce.date(),
     updated: z.coerce.date(),
     category: z.enum(['Articles', 'Livres & ressources']),
-    tags: z.array(z.enum(['émotion', 'colère', 'limite', 'jeu', 'imagination'])).min(1).max(3),
+    tags: z.array(z.enum(['émotion', 'colère', 'limite', 'jeu', 'imagination', 'self-care'])).min(1).max(3),
     image: z.string(),
     imageAlt: z.string(),
     imageWidth: z.number().default(1200),

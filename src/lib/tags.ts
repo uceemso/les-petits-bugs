@@ -3,7 +3,8 @@ export const tagDefinitions = [
   { value: 'colère', slug: 'colere', label: 'Colère' },
   { value: 'limite', slug: 'limite', label: 'Limite' },
   { value: 'jeu', slug: 'jeu', label: 'Jeu' },
-  { value: 'imagination', slug: 'imagination', label: 'Imagination' }
+  { value: 'imagination', slug: 'imagination', label: 'Imagination' },
+  { value: 'self-care', slug: 'self-care', label: 'Self-care' }
 ] as const;
 
 export type ArticleTag = (typeof tagDefinitions)[number]['value'];

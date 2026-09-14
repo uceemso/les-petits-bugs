@@ -6,7 +6,7 @@ seoDescription: "Avec de jeunes enfants, prendre soin de soi ne ressemble pas to
 date: 2026-09-14
 updated: 2026-09-14
 category: "Articles"
-tags: ["jeu"]
+tags: ["jeu", "self-care"]
 image: "/images/articles/article-14-cinq-minutes-comptent.webp"
 imageAlt: "Illustration watercolor de Marie faisant des pompes au-dessus d’Angelina, installée sur un tapis de sport."
 imageWidth: 1600
