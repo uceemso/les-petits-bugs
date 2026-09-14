@@ -5,14 +5,16 @@ description: "Parfois, écrire l’expérience d’un enfant peut l’aider à d
 seoDescription: "Découvrez comment écrire avec un enfant peut aider à apaiser une grosse émotion, à reconnaître son vécu et à retrouver son calme."
 date: 2026-09-13
 updated: 2026-09-13
-category: "Parentalité"
+category: "Articles"
+tags: ["émotion", "colère"]
 image: "/images/articles/article-07-ecrire-caisse.webp"
 imageAlt: "Une illustration aquarelle abstraite représentant une caisse fermée, des pommes et une émotion qui s’apaise autour d’une note écrite."
 imageWidth: 1600
 imageHeight: 900
 slug: article-ecrire-caisse
 readingTime: "4 min de lecture"
----\nParfois, une émotion ne s’apaise pas parce qu’on trouve la bonne explication. Elle s’apaise quand l’enfant sent que son histoire a été entièrement entendue.
+---
+Parfois, une émotion ne s’apaise pas parce qu’on trouve la bonne explication. Elle s’apaise quand l’enfant sent que son histoire a été entièrement entendue.
 
 ## Une crise à la caisse
 
