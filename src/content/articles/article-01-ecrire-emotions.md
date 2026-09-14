@@ -5,7 +5,8 @@ description: "Quand un enfant n’est pas prêt à parler de ce qu’il ressent,
 seoDescription: "Un enfant n’est pas prêt à parler de ce qu’il ressent ? Écrire, dessiner ou faire une liste peut l’aider à déposer son émotion et à en parler plus tard."
 date: 2026-06-18
 updated: 2026-06-18
-category: "Émotions"
+category: "Articles"
+tags: ["émotion"]
 image: "/images/articles/article-01-ecrire-emotions.webp"
 imageAlt: "Un enfant et un adulte transforment un gribouillis en dessin sur une feuille."
 imageWidth: 1600
