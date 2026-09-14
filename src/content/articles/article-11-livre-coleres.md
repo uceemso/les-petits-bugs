@@ -5,7 +5,8 @@ description: "Parler pour que les tout-petits écoutent m’a donné des outils 
 seoDescription: "Pourquoi Parler pour que les tout-petits écoutent de Joanna Faber et Julie King m’a aidée à accompagner les grosses colères et les oppositions de mon enfant."
 date: 2026-09-14
 updated: 2026-09-14
-category: "LIVRES & RESSOURCES"
+category: "Livres & ressources"
+tags: ["émotion", "colère", "limite"]
 image: "/images/articles/article-11-livre-coleres.webp"
 imageAlt: "Illustration abstraite à l’aquarelle représentant le passage d’une tempête émotionnelle vers l’apaisement grâce à un livre."
 imageWidth: 1600
