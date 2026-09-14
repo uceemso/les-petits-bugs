@@ -5,7 +5,8 @@ description: "Trois façons de poser une limite sans entrer dans le bras de fer 
 seoDescription: "Comment poser une limite sans entrer dans le bras de fer ? Trois alternatives concrètes au « non » pour accompagner les enfants au quotidien."
 date: 2026-08-22
 updated: 2026-08-22
-category: "Discipline positive"
+category: "Articles"
+tags: ["limite"]
 image: "/images/articles/article-05-dire-moins-non.webp"
 imageAlt: "Un grand frère joue avec un chien en peluche devant sa petite sœur dans un jardin."
 imageWidth: 1600
